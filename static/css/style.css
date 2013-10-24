@@ -1,0 +1,113 @@
+.cf:before, .cf:after {
+  content: " ";
+  display: table; }
+
+  .cf:after {
+    clear: both; }
+
+    .cf {
+      *zoom: 1; }
+
+      body {
+        font-family: 'Noto Sans', sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        max-width: 1024px;
+        margin: 0 auto;
+        background: #fff;
+        position: relative; }
+        body h1 {
+          font-weight: 700;
+          font-size: 48px; }
+          body h2 {
+            margin-top: 30px;
+            width: 100%;
+            border-bottom: 1px solid #ccc; }
+            body h3 {
+              font-weight: 400; }
+              body p {
+                line-height: 1.5em; }
+                body img.headshot {
+                  height: 6em;
+                  width: 5.6em;
+                  margin: 5px 20px 5px 0; }
+                  body #top {
+                    position: relative;
+                    border-bottom: 1px solid #ccc;
+                    margin-bottom: 30px; }
+                    body #top img.background {
+                      position: absolute;
+                      top: 0;
+                      left: 0;
+                      z-index: -1;
+                      width: 1024px;
+                      overflow: hide;
+                      height: 100%; }
+                      body #top div.column1, body #top div.column2, body #top div.column3,
+                      body #top div.column4 {
+                        float: left; }
+                        body #top div.column1 {
+                          width: 450px; }
+                          body #top div.column1 h1 {
+                            margin-left: 20px; }
+                    body #top div.column2, body #top div.column3, body #top div.column4 {
+                      margin-top: 25px; }
+                      body #top div.column2 {
+                        width: 300px; }
+                        body #top div.column3 {
+                          width: 200px; }
+                          body #top div.column4 {
+                            width: 50px; }
+                            body #top ul.details {
+                              margin: 0 0;
+                              font-family: 'Georgia', serif;
+                              font-size: 16px;
+                              list-style-type: none;
+                              padding-left: 1em;
+                              text-indent: -1em; }
+                              body #top ul.details li {
+                                line-height: 1.6em; }
+                                body #top ul.details img.logo {
+                                  height: 16px;
+                                  width: 16px; }
+        body div.project, body div.semester, body div.pubtype {
+          margin-bottom: 30px; }
+          body div.project div, body div.semester div, body div.pubtype div {
+            float: left; }
+            body div.project div.name, body div.semester div.name, body div.pubtype div.name {
+              width: 180px; }
+              body div.project div.name h3, body div.semester div.name h3,
+              body div.pubtype div.name h3 {
+                margin: 0;
+                padding: 0; }
+          body div.project div.courses, body div.project div.pubs,
+          body div.semester div.courses, body div.semester div.pubs,
+          body div.pubtype div.courses, body div.pubtype div.pubs {
+            width: 800px; }
+            body div.project div.courses ul, body div.project div.pubs ul,
+            body div.semester div.courses ul, body div.semester div.pubs ul,
+            body div.pubtype div.courses ul, body div.pubtype div.pubs ul {
+              margin: 0;
+              padding: 0;
+              line-height: 1.6em; }
+          body div.project div.pubs ul li, body div.semester div.pubs ul li,
+          body div.pubtype div.pubs ul li {
+            margin-bottom: 10px; }
+            body div.project div.pubs ul li .award, body div.semester div.pubs ul li .award,
+            body div.pubtype div.pubs ul li .award {
+              font-weight: 700; }
+              body div.project div.pubs ul li .pub, body div.semester div.pubs ul li .pub,
+              body div.pubtype div.pubs ul li .pub {
+                font-style: italic; }
+          body div.project div.description, body div.semester div.description,
+          body div.pubtype div.description {
+            width: 500px;
+            margin: 0 20px 0 0;
+            padding: 0; }
+            body div.project div.description p, body div.semester div.description p,
+            body div.pubtype div.description p {
+              margin: 0;
+              padding: 0; }
+          body div.project div.screenshot, body div.semester div.screenshot,
+          body div.pubtype div.screenshot {
+            width: 324; }
