@@ -1,0 +1,137 @@
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+    *zoom: 1;
+}
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+
+    h1 {
+        font-weight: 700;
+        font-size: 48px;
+    }
+
+    h2 {
+        margin-top: 30px;
+        width: 100%;
+        border-bottom: 1px solid #ccc;
+    }
+
+    h3 {
+        font-weight: 400;
+    }
+
+    /* font-family: 'Noto Sans', sans-serif; */
+
+    p {
+        line-height: 1.5em;
+    }
+
+
+    max-width: 1024px;
+    margin: 0 auto;
+    background: #fff; /* Fills the page */
+    position: relative; /* Fix for absolute positioning */
+
+    img.headshot {
+        height: 6em;
+        width: 5.6em;
+        margin : 5px 20px 5px 0;
+    }
+    
+    #top {
+        position : relative;
+        img.background {
+            position : absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+            width: 1024px;
+            overflow: hide;
+            height: 100%;
+        }
+        div.column1,div.column2,div.column3,div.column4 {
+            float: left;
+        }
+        div.column1 {
+            h1 { margin-left: 20px; }
+            width: 450px;
+        }
+        div.column2, div.column3, div.column4 {
+            margin-top: 25px;
+        }
+        div.column2 {
+            width: 300px;
+        }
+        div.column3 {
+            width: 200px;
+        }
+        div.column4 {
+            width: 50px;
+        }
+        ul.details {
+            margin: 0 0;
+            font-family: 'Georgia', serif;
+            font-size: 16px;
+            list-style-type: none;
+            padding-left: 1em;
+            text-indent: -1em;
+            li { line-height: 1.2em; }
+            img.logo { height: 16px; width: 16px; }
+        }
+        border-bottom: 1px solid #ccc;
+        margin-bottom: 30px;
+    }
+
+    div.project,div.semester,div.pubtype {
+        div { float : left; }
+        div.name { 
+            h3 { margin: 0; padding: 0; }
+            width: 180px; 
+        }
+        div.courses,div.pubs {
+            width: 800px;
+            ul {
+                margin: 0; padding: 0; line-height: 1.6em;
+            }
+        }
+        div.pubs ul li {
+            margin-bottom: 10px;
+            .award { font-weight: 700; }
+            .pub { font-style: italic; }
+        }
+        div.description { 
+            width: 500px; 
+            margin: 0 20px 0 0;
+            padding: 0;
+            p { margin: 0; padding: 0 }
+        }
+        div.screenshot { width: 324; }
+        margin-bottom: 30px;
+    }
+}
+
