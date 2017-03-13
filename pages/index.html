@@ -35,23 +35,31 @@
 
 <div>
    <p>         <img class="headshot" src="{{ STATIC_URL }}/img/shilad.jpg" align="left"/>
-   I'm an Assistant Professor at <a href="http://www.macalester.edu">Macalester College</a> in St. Paul. I build systems that empower people to be better contributors to online communities.
+   I'm an Associate Professor at <a href="http://www.macalester.edu">Macalester College</a> in St. Paul and a Research Fellow at Target Corporation.  As a <b>teacher</b>, I strive to convey the joys of computer science to undergraduates and prepare them for their lives after graduation. As a <b>researcher</b>, I build systems that empower people to be better contributors to online communities.
 
-My research draws on techniques from data-mining, interface design, and social science to encourage members to contribute better content to their communities, and enable communities to identify high-quality contributions from members.  
-
-</p>
-
+<p>My research draws on techniques from data-mining, interface design, and social science to encourage members to contribute better content to their communities, and enable communities to identify high-quality contributions from members.  
+I also currently serve as a research fellow for Target Corporation, helping them develop and scale algorithms and systems for personalization.
 <p>I received my Ph.D. under John Riedl at the University of Minnesota with <a href="http://www.grouplens.org">GroupLens Research</a>.  
 Before that, I worked at Sourcelight Technologies, a startup that built movie recommenders
 for companies like Blockbuster Video and Comcast.  I have also worked for Google, IBM Research, and Thomson Reuters R & D.
 </p>
 
-    <p>When not teaching or researching, I play jazz saxophone with <a href="http://snowblindmusic.com">Snowblind</a>, play squash, and spend time with my wife <a href="https://twitter.com/katysen">Katy</a>, son <a href="http://www.flickr.com/photos/shilad/7449844066/in/set-72157604125831482/lightbox/">Sidney</a>, and daughter <a href="http://www.flickr.com/photos/shilad/7747547056/in/photostream/lightbox/">Stella.</a></p>
+    <p>When not teaching or researching, I play jazz saxophone with <a href="https://www.facebook.com/AdamMecklerOrchestra/">The Adam Meckler Orchestra</a>, play squash, and spend time with my wife <a href="https://twitter.com/katysen">Katy</a>, son <a href="http://www.flickr.com/photos/shilad/7449844066/in/set-72157604125831482/lightbox/">Sidney</a>, and daughter <a href="http://www.flickr.com/photos/shilad/7747547056/in/photostream/lightbox/">Stella.</a></p>
 
-    <p>Find more details about me on my <a href="{{ STATIC_URL }}/shilads_cv.pdf">curriculum vitae</a></p>
+    <!--<p>Find more details about me on my <a href="{{ STATIC_URL }}/shilads_cv.pdf">curriculum vitae</a></p>-->
 </div>
 
 <h2>Projects</h2>
+
+<div class="project group">
+    <div class="name col span_2_of_9"><h3>Cartograph</h3></div>
+    <div class="description col span_4_of_9"><p>
+        <a href="http://cartograph.info">Cartograph</a> creates thematic maps from non-geographical data. Our maps use neural networks trained on Wikipedia content and user behavior to reveal connections between points in a dataset that might otherwise appear unconnected. The maps support zoom, pan, and other features that enhance the geographic metaphor.</p></div>
+    <div class="screenshot col span_3_of_9">
+        <a href="http://cartograph.info"><img src="{{ STATIC_URL }}/img/cartograph-thumb.png"/ width=300></a>
+    </div>
+</div>
+
 
 <div class="project group">
     <div class="name col span_2_of_9"><h3>Localness</h3></div>
@@ -96,50 +104,7 @@ The library provides algorithms that detect identical and related concepts acros
     </div>
 </div>
 
-<h2>Teaching</h2>
-<div class="semester group">
-    <div class="name col span_2_of_9"><h3>Fall 2013</h3></div>
-    <div class="courses col span_7_of_9">
-        <ul>
-            <li>Comp 120: Exploring the Political and Social Structure of the Web</li>
-            <li>Comp 124: Object Oriented Programming and Data Structures</li>
-            <li>Comp 440: Collective Intelligence</li>
-        </ul>
-    </div>
-</div>
-<div class="semester group">
-    <div class="name col span_2_of_9"><h3>Spring 2014</h3></div>
-    <div class="courses col span_7_of_9">
-        <ul>
-            <li>Comp 124: Object Oriented Programming and Data Structures</li>
-            <li>Comp 494: CyberPolitics</li>
-        </ul>
-    </div>
-</div>
-
 <h2>Publications</h2>
-
-<div class="pubtype group type-conference">
-    <div class="name col span_2_of_9"><h3>Conference Papers</h3></div>
-    <div class="pubs col span_7_of_9">
-        <ul>
-            <script id="conference-template" type="text/x-handlebars-template">
-            <li>
-            {% verbatim %}
-            <span class="authors">{{authors}}</span>
-            <span class="title">"{{title}}"</span>,
-            <span class="pub">{{pub}}</span>,
-            <span class="year">{{conference}}</span>.
-            <span class="pages">pp {{pages}}</span>.
-            <span class="acceptance">(acceptance rate: {{acceptance}}%)</span>
-            <span class="award">{{award}}</span>
-            - <a href="{{link}}">pdf</a>
-            {% endverbatim %}
-            </li>
-            </script>
-        </ul>
-    </div>
-</div>
 
 <div class="pubtype group type-journal">
     <div class="name col span_2_of_9"><h3>Journal<br/>Articles</h3></div>
@@ -163,6 +128,28 @@ The library provides algorithms that detect identical and related concepts acros
     </div>
 </div>
 
+
+<div class="pubtype group type-conference">
+    <div class="name col span_2_of_9"><h3>Conference Papers</h3></div>
+    <div class="pubs col span_7_of_9">
+        <ul>
+            <script id="conference-template" type="text/x-handlebars-template">
+            <li>
+            {% verbatim %}
+            <span class="authors">{{authors}}</span>
+            <span class="title">"{{title}}"</span>,
+            <span class="pub">{{pub}}</span>,
+            <span class="year">{{conference}}</span>.
+            <span class="pages">pp {{pages}}</span>.
+            <span class="acceptance">(acceptance rate: {{acceptance}}%)</span>
+            <span class="award">{{award}}</span>
+            - <a href="{{link}}">pdf</a>
+            {% endverbatim %}
+            </li>
+            </script>
+        </ul>
+    </div>
+</div>
 <div class="pubtype group type-chapter">
     <div class="name col span_2_of_9"><h3>Book<br/>Chapters</h3></div>
     <div class="pubs col span_7_of_9">
