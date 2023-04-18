@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["London (map-bms)", 86, "http://map-bms.wikipedia.org/wiki/London"], ["Museum lan Galeri Seni Derby (map-bms)", 7, "http://map-bms.wikipedia.org/wiki/Museum_lan_Galeri_Seni_Derby"]], "data": [["us", 2], ["de", 1]]};

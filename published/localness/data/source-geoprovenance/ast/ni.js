@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Nicaragua (ast)", 49, "http://ast.wikipedia.org/wiki/Nicaragua"], ["Zapatera (volc\u00e1n) (ast)", 3, "http://ast.wikipedia.org/wiki/Zapatera_%28volc%C3%A1n%29"], ["Managua (ast)", 2, "http://ast.wikipedia.org/wiki/Managua"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Montserrat (da)", 58, "http://da.wikipedia.org/wiki/Montserrat"], ["Soufri\u00e8re Hills (da)", 11, "http://da.wikipedia.org/wiki/Soufri%C3%A8re_Hills"], ["Plymouth (Montserrat) (da)", 7, "http://da.wikipedia.org/wiki/Plymouth_%28Montserrat%29"]], "data": [["us", 3], ["dz", 1], ["gb", 1]]};

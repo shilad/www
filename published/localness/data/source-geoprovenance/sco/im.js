@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Isle o Man (sco)", 29, "http://sco.wikipedia.org/wiki/Isle_o_Man"], ["Castletoun (sco)", 5, "http://sco.wikipedia.org/wiki/Castletoun"], ["Douglas, Isle o Man (sco)", 4, "http://sco.wikipedia.org/wiki/Douglas%2C_Isle_o_Man"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "de": [["bistum-speyer.de", 13], ["wamiba.de", 12], ["mannheim.de", 11], ["other", 152]]}, "articles": [["Tschechien (pfl)", 52, "http://pfl.wikipedia.org/wiki/Tschechien"], ["Vrahovice (pfl)", 5, "http://pfl.wikipedia.org/wiki/Vrahovice"]], "data": [["de", 0.8930232558139535], ["all", 0.0]]};

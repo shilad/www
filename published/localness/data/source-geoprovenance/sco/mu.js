@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Mauritius (sco)", 33, "http://sco.wikipedia.org/wiki/Mauritius"], ["Port Louis (sco)", 5, "http://sco.wikipedia.org/wiki/Port_Louis"]], "data": []};

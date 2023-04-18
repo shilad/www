@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Afrika (dsb)", 85, "http://dsb.wikipedia.org/wiki/Afrika"], ["Centralnoafriska republika (dsb)", 34, "http://dsb.wikipedia.org/wiki/Centralnoafriska_republika"]], "data": []};

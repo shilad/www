@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Wyspa Heard (pl)", 32, "http://pl.wikipedia.org/wiki/Wyspa_Heard"], ["Mawson Peak (pl)", 28, "http://pl.wikipedia.org/wiki/Mawson_Peak"]], "data": [["us", 1]]};

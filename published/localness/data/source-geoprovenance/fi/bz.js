@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Belize (fi)", 214, "http://fi.wikipedia.org/wiki/Belize"], ["Belmopan (fi)", 14, "http://fi.wikipedia.org/wiki/Belmopan"], ["Carl Ramos Stadium (fi)", 5, "http://fi.wikipedia.org/wiki/Carl_Ramos_Stadium"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Singapor (oc)", 68, "http://oc.wikipedia.org/wiki/Singapor"], ["Batalha de Singapor (oc)", 6, "http://oc.wikipedia.org/wiki/Batalha_de_Singapor"], ["Grand r\u00f2da (oc)", 3, "http://oc.wikipedia.org/wiki/Grand_r%C3%B2da"]], "data": []};

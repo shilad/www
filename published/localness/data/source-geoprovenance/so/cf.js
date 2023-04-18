@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Afrika (so)", 170, "http://so.wikipedia.org/wiki/Afrika"], ["Jamhuuriyadda Bartamaha Afrika (so)", 32, "http://so.wikipedia.org/wiki/Jamhuuriyadda_Bartamaha_Afrika"], ["Bangui (so)", 15, "http://so.wikipedia.org/wiki/Bangui"]], "data": []};

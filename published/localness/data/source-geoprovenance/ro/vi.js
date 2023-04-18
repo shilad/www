@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Saint Croix, Insulele Virgine Americane (ro)", 13, "http://ro.wikipedia.org/wiki/Saint_Croix%2C_Insulele_Virgine_Americane"], ["Charlotte Amalie, Insulele Virgine Americane (ro)", 9, "http://ro.wikipedia.org/wiki/Charlotte_Amalie%2C_Insulele_Virgine_Americane"]], "data": [["de", 1]]};

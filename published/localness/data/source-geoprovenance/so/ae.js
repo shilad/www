@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Imaaraatka Carabta (so)", 52, "http://so.wikipedia.org/wiki/Imaaraatka_Carabta"], ["Burj Khalifa (so)", 14, "http://so.wikipedia.org/wiki/Burj_Khalifa"]], "data": []};

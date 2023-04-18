@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["ibiblio.org", 7], ["other", 32]], "us": [["ibiblio.org", 7], ["other", 32]]}, "articles": [["Navassa Island (simple)", 65, "http://simple.wikipedia.org/wiki/Navassa_Island"], ["Baker Island (simple)", 45, "http://simple.wikipedia.org/wiki/Baker_Island"]], "data": [["us", 41], ["ps", 1], ["fr", 1]]};

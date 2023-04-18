@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["George Town, Cayman Islands (simple)", 12, "http://simple.wikipedia.org/wiki/George_Town%2C_Cayman_Islands"], ["Grand Cayman (simple)", 11, "http://simple.wikipedia.org/wiki/Grand_Cayman"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Myanmar (cy)", 57, "http://cy.wikipedia.org/wiki/Myanmar"], ["Naypyidaw (cy)", 10, "http://cy.wikipedia.org/wiki/Naypyidaw"], ["Yangon (cy)", 8, "http://cy.wikipedia.org/wiki/Yangon"], ["Afon Salawin (cy)", 5, "http://cy.wikipedia.org/wiki/Afon_Salawin"]], "data": []};

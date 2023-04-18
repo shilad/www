@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Bulgarien (nds)", 55, "http://nds.wikipedia.org/wiki/Bulgarien"], ["Makedonien (Region) (nds)", 9, "http://nds.wikipedia.org/wiki/Makedonien_%28Region%29"]], "data": []};

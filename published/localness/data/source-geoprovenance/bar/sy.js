@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Syrien (bar)", 70, "http://bar.wikipedia.org/wiki/Syrien"], ["Biagakriag in Syrien (bar)", 18, "http://bar.wikipedia.org/wiki/Biagakriag_in_Syrien"]], "data": []};

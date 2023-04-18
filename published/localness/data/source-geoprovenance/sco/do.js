@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Dominican Republic (sco)", 37, "http://sco.wikipedia.org/wiki/Dominican_Republic"], ["Santo Domingo (sco)", 21, "http://sco.wikipedia.org/wiki/Santo_Domingo"], ["Hispaniola (sco)", 15, "http://sco.wikipedia.org/wiki/Hispaniola"]], "data": [["do", 3], ["us", 3], ["ge", 1], ["gb", 1], ["es", 1]]};

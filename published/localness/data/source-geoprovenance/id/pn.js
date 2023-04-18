@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kepulauan Pitcairn (id)", 102, "http://id.wikipedia.org/wiki/Kepulauan_Pitcairn"], ["Adamstown (id)", 18, "http://id.wikipedia.org/wiki/Adamstown"]], "data": [["au", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Gibutum (la)", 49, "http://la.wikipedia.org/wiki/Gibutum"], ["Gibutum (urbs) (la)", 11, "http://la.wikipedia.org/wiki/Gibutum_%28urbs%29"]], "data": []};

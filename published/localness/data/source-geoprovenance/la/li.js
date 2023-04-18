@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Lichtenstenum (la)", 42, "http://la.wikipedia.org/wiki/Lichtenstenum"], ["Dulcis Vallis (la)", 17, "http://la.wikipedia.org/wiki/Dulcis_Vallis"]], "data": []};

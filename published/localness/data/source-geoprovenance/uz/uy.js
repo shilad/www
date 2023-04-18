@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Urugvay (uz)", 33, "http://uz.wikipedia.org/wiki/Urugvay"], ["FIFA Jahon chempionati 1930 (uz)", 7, "http://uz.wikipedia.org/wiki/FIFA_Jahon_chempionati_1930"], ["Montevideo (uz)", 5, "http://uz.wikipedia.org/wiki/Montevideo"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Malaysia (bar)", 50, "http://bar.wikipedia.org/wiki/Malaysia"], ["Sepang International Circuit (bar)", 3, "http://bar.wikipedia.org/wiki/Sepang_International_Circuit"]], "data": [["de", 4], ["us", 2], ["my", 1], ["gb", 1]]};

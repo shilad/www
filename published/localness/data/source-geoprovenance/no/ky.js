@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["George Town (Cayman\u00f8yene) (no)", 30, "http://no.wikipedia.org/wiki/George_Town_%28Cayman%C3%B8yene%29"], ["Grand Cayman (no)", 25, "http://no.wikipedia.org/wiki/Grand_Cayman"], ["The Bluff (no)", 3, "http://no.wikipedia.org/wiki/The_Bluff"]], "data": [["us", 5], ["ky", 3], ["au", 1], ["gb", 1]]};

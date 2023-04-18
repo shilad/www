@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Granata (civitas Caribica) (la)", 41, "http://la.wikipedia.org/wiki/Granata_%28civitas_Caribica%29"], ["Granata (insula) (la)", 1, "http://la.wikipedia.org/wiki/Granata_%28insula%29"]], "data": []};

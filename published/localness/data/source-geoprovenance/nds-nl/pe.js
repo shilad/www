@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Machu Picchu (nds-nl)", 16, "http://nds-nl.wikipedia.org/wiki/Machu_Picchu"], ["Chan Chan (nds-nl)", 12, "http://nds-nl.wikipedia.org/wiki/Chan_Chan"]], "data": []};

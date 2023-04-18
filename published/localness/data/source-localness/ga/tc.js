@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "gb": []}, "articles": [["Oile\u00e1in na dTurcach agus Caicos (ga)", 26, "http://ga.wikipedia.org/wiki/Oile%C3%A1in_na_dTurcach_agus_Caicos"]], "data": [["gb", 1.0], ["all", 0.0]]};

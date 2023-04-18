@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Demokratische Republik Kongo (als)", 135, "http://als.wikipedia.org/wiki/Demokratische_Republik_Kongo"], ["Kinshasa (als)", 32, "http://als.wikipedia.org/wiki/Kinshasa"]], "data": [["fr", 2], ["us", 2], ["be", 1], ["de", 1], ["nl", 1]]};

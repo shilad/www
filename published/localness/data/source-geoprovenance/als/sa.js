@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Saudi-Arabien (als)", 93, "http://als.wikipedia.org/wiki/Saudi-Arabien"], ["Mittlerer Osten (als)", 32, "http://als.wikipedia.org/wiki/Mittlerer_Osten"], ["Mekka (als)", 1, "http://als.wikipedia.org/wiki/Mekka"]], "data": []};

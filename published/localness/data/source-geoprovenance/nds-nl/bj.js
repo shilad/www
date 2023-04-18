@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["West-Afrika (nds-nl)", 24, "http://nds-nl.wikipedia.org/wiki/West-Afrika"], ["Benin (nds-nl)", 24, "http://nds-nl.wikipedia.org/wiki/Benin"]], "data": []};

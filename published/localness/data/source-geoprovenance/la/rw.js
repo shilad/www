@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Ruanda (la)", 47, "http://la.wikipedia.org/wiki/Ruanda"], ["Kigali (la)", 12, "http://la.wikipedia.org/wiki/Kigali"], ["Universitas Nationalis Ruandae (la)", 1, "http://la.wikipedia.org/wiki/Universitas_Nationalis_Ruandae"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Illa de Man (ca)", 68, "http://ca.wikipedia.org/wiki/Illa_de_Man"], ["TT Illa de Man (ca)", 39, "http://ca.wikipedia.org/wiki/TT_Illa_de_Man"], ["Douglas (illa de Man) (ca)", 12, "http://ca.wikipedia.org/wiki/Douglas_%28illa_de_Man%29"]], "data": [["gb", 7], ["im", 6], ["us", 6], ["de", 1]]};

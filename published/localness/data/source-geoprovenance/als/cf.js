@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Afrika (als)", 120, "http://als.wikipedia.org/wiki/Afrika"], ["Zentralafrikanische Republik (als)", 95, "http://als.wikipedia.org/wiki/Zentralafrikanische_Republik"]], "data": []};

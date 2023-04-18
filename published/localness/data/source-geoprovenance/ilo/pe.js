@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Peru (ilo)", 40, "http://ilo.wikipedia.org/wiki/Peru"]], "data": [["us", 9], ["ca", 2], ["pe", 2], ["fr", 1], ["nl", 1], ["de", 1], ["gb", 1], ["es", 1]]};

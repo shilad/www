@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Senegal (nds)", 42, "http://nds.wikipedia.org/wiki/Senegal"], ["V\u00e9lingara-Krater (nds)", 4, "http://nds.wikipedia.org/wiki/V%C3%A9lingara-Krater"]], "data": []};

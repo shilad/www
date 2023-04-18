@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Quataria (la)", 44, "http://la.wikipedia.org/wiki/Quataria"], ["Universitas Quatariae (la)", 3, "http://la.wikipedia.org/wiki/Universitas_Quatariae"]], "data": []};

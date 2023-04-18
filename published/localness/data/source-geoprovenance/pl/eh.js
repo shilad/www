@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Al-Bir al-Hilw (pl)", 61, "http://pl.wikipedia.org/wiki/Al-Bir_al-Hilw"], ["Al-Kuwajra (pl)", 21, "http://pl.wikipedia.org/wiki/Al-Kuwajra"]], "data": []};

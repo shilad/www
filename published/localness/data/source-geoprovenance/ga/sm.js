@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["San Mair\u00edne (ga)", 55, "http://ga.wikipedia.org/wiki/San_Mair%C3%ADne"], ["Cathair San Mair\u00edne, San Mair\u00edne (ga)", 8, "http://ga.wikipedia.org/wiki/Cathair_San_Mair%C3%ADne%2C_San_Mair%C3%ADne"]], "data": []};

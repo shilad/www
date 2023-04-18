@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["worldcat.org", 5], ["other", 40]], "us": [["worldcat.org", 5], ["other", 26]]}, "articles": [], "data": [["us", 34], ["it", 6], ["gb", 3], ["fr", 2], ["is", 2], ["mh", 2], ["ch", 1], ["de", 1], ["au", 1]]};

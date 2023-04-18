@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Bwrcina Ffaso (cy)", 32, "http://cy.wikipedia.org/wiki/Bwrcina_Ffaso"], ["Ouagadougou (cy)", 15, "http://cy.wikipedia.org/wiki/Ouagadougou"], ["Bobo-Dioulasso (cy)", 4, "http://cy.wikipedia.org/wiki/Bobo-Dioulasso"], ["Fada N'gourma (cy)", 3, "http://cy.wikipedia.org/wiki/Fada_N%27gourma"]], "data": []};

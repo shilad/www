@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Liberia (simple)", 87, "http://simple.wikipedia.org/wiki/Liberia"], ["Monrovia (simple)", 35, "http://simple.wikipedia.org/wiki/Monrovia"], ["Republic of Maryland (simple)", 9, "http://simple.wikipedia.org/wiki/Republic_of_Maryland"], ["Lofa County (simple)", 2, "http://simple.wikipedia.org/wiki/Lofa_County"]], "data": []};

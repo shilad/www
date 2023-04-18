@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Y Bahamas (cy)", 44, "http://cy.wikipedia.org/wiki/Y_Bahamas"], ["Nassau, Bahamas (cy)", 8, "http://cy.wikipedia.org/wiki/Nassau%2C_Bahamas"]], "data": []};

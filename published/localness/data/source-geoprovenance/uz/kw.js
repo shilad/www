@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Quvayt (uz)", 56, "http://uz.wikipedia.org/wiki/Quvayt"], ["Al-Quvayt (uz)", 18, "http://uz.wikipedia.org/wiki/Al-Quvayt"], ["Osiyo Olimpiya Kengashi (uz)", 8, "http://uz.wikipedia.org/wiki/Osiyo_Olimpiya_Kengashi"]], "data": []};

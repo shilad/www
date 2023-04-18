@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["De franske s\u00f8rterritorier (no)", 43, "http://no.wikipedia.org/wiki/De_franske_s%C3%B8rterritorier"], ["Kerguelen (no)", 39, "http://no.wikipedia.org/wiki/Kerguelen"], ["\u00cele Saint-Paul (no)", 14, "http://no.wikipedia.org/wiki/%C3%8Ele_Saint-Paul"]], "data": [["us", 5], ["fr", 3], ["au", 1], ["nl", 1], ["is", 1]]};

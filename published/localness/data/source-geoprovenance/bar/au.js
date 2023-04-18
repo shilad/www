@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Australien (bar)", 86, "http://bar.wikipedia.org/wiki/Australien"], ["Australien (Kontinent) (bar)", 25, "http://bar.wikipedia.org/wiki/Australien_%28Kontinent%29"]], "data": [["de", 3], ["au", 2], ["us", 1]]};

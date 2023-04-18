@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Burkina Faso (ilo)", 37, "http://ilo.wikipedia.org/wiki/Burkina_Faso"], ["Maika-12 a paralelo amianan (ilo)", 1, "http://ilo.wikipedia.org/wiki/Maika-12_a_paralelo_amianan"], ["Maika-14 a paralelo amianan (ilo)", 1, "http://ilo.wikipedia.org/wiki/Maika-14_a_paralelo_amianan"]], "data": [["us", 2], ["bf", 1], ["fr", 1]]};

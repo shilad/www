@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Turks- og Caicos\u00f8yene (no)", 79, "http://no.wikipedia.org/wiki/Turks-_og_Caicos%C3%B8yene"], ["Cockburn Town (no)", 6, "http://no.wikipedia.org/wiki/Cockburn_Town"]], "data": [["us", 4], ["au", 1], ["uy", 1], ["gb", 1]]};

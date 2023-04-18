@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Campo de Juego de la Secundaria Kwajalein (es)", 2, "http://es.wikipedia.org/wiki/Campo_de_Juego_de_la_Secundaria_Kwajalein"]], "data": [["us", 10], ["es", 5], ["fr", 3], ["au", 2], ["ca", 1], ["de", 1], ["ar", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["South Africa (hif)", 58, "http://hif.wikipedia.org/wiki/South_Africa"], ["Pretoria (hif)", 22, "http://hif.wikipedia.org/wiki/Pretoria"], ["Cape Town (hif)", 18, "http://hif.wikipedia.org/wiki/Cape_Town"]], "data": []};

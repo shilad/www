@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["De Sudan (cy)", 29, "http://cy.wikipedia.org/wiki/De_Sudan"], ["Juba, De Sudan (cy)", 10, "http://cy.wikipedia.org/wiki/Juba%2C_De_Sudan"]], "data": []};

@@ -1,0 +1,78 @@
+.essay {
+    padding-left: 0;
+}
+h1 {
+    margin: 10px 0 20px 0;
+    font-size: 36px;
+}
+.essay .essay-text {
+    padding-left: 0;
+    font-size: 16px;
+    font-family: georgia,"times new roman",times,serif;
+    line-height: 1.6;
+    color: #555;
+}
+
+.essay .essay-text p {
+    max-width: 800px;
+}
+
+.essay .essay-text p b {
+    color: black;
+    font-weight: 600;
+}
+
+.essay p.preamble {
+    max-width: 100%;
+    font-style: italic;
+    margin: 0 0 20px 40px;
+    font-size: 15px;
+    color: #777;
+}
+.essay p.preamble {
+    margin: 10px 0 30px 0;
+}
+
+div.figure, div.narrow-figure {
+    float: right;
+    padding-left: 25px;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+div.figure {
+    width: 450px;
+}
+div.narrow-figure {
+    width: 300px;
+}
+
+div.figure img.stacked, div.narrow-figure img.stacked {
+    margin-top: 20px;
+}
+
+ol.references {
+    padding-left: 20px;
+}
+.essay .references li {
+    font-size: 14px;
+    line-height: 1.4;
+    margin-bottom: 5px;
+}
+
+.fancybox-title {
+    font-size: 16px;
+}
+
+div.figure p.caption {
+    margin-top: 5px;
+    width: 450px;
+}
+
+div.narrow-figure p.caption {
+    margin-top: 5px;
+    width: 300px;
+}
+
+ul.authors span.author-name { color: black; font-weight: 500; }
+ul.authors li { text-align: center; margin-bottom: 5px; }

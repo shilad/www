@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Gini Gyhydeddol (cy)", 41, "http://cy.wikipedia.org/wiki/Gini_Gyhydeddol"], ["Bioko (cy)", 11, "http://cy.wikipedia.org/wiki/Bioko"]], "data": []};

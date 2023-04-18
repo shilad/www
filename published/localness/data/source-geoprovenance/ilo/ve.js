@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Venezuela (ilo)", 40, "http://ilo.wikipedia.org/wiki/Venezuela"], ["Departamento ti Vichada (ilo)", 3, "http://ilo.wikipedia.org/wiki/Departamento_ti_Vichada"]], "data": [["us", 13], ["co", 3]]};

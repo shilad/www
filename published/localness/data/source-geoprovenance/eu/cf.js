@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Afrika (eu)", 1452, "http://eu.wikipedia.org/wiki/Afrika"], ["Afrika Erdiko Errepublika (eu)", 38, "http://eu.wikipedia.org/wiki/Afrika_Erdiko_Errepublika"], ["Bangi (eu)", 26, "http://eu.wikipedia.org/wiki/Bangi"]], "data": []};

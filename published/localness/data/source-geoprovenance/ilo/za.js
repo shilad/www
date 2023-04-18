@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Abagatan nga Aprika (ilo)", 62, "http://ilo.wikipedia.org/wiki/Abagatan_nga_Aprika"], ["Cape Town (ilo)", 30, "http://ilo.wikipedia.org/wiki/Cape_Town"]], "data": [["us", 11], ["za", 6], ["de", 1], ["eg", 1], ["py", 1], ["gd", 1], ["bw", 1]]};

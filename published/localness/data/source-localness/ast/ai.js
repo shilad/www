@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "ir": [], "us": [], "es": [["ine.es", 5], ["other", 25]]}, "articles": [["Anguilla (dependencia) (ast)", 36, "http://ast.wikipedia.org/wiki/Anguilla_%28dependencia%29"], ["The Valley (ast)", 7, "http://ast.wikipedia.org/wiki/The_Valley"]], "data": [["us", 1.0], ["es", 0.6136363636363636], ["ir", 0.14285714285714285], ["all", 0.0]]};

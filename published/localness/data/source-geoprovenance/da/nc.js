@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Ny Kaledonien (da)", 134, "http://da.wikipedia.org/wiki/Ny_Kaledonien"], ["Loyalitets\u00f8erne (da)", 6, "http://da.wikipedia.org/wiki/Loyalitets%C3%B8erne"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["French Polynesia (hif)", 17, "http://hif.wikipedia.org/wiki/French_Polynesia"], ["Tahiti (hif)", 16, "http://hif.wikipedia.org/wiki/Tahiti"], ["Papeete (hif)", 10, "http://hif.wikipedia.org/wiki/Papeete"]], "data": []};

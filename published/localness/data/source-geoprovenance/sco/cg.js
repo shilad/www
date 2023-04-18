@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Republic o the Congo (sco)", 24, "http://sco.wikipedia.org/wiki/Republic_o_the_Congo"], ["Brazzaville (sco)", 9, "http://sco.wikipedia.org/wiki/Brazzaville"]], "data": [["fr", 1]]};

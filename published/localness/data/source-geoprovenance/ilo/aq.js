@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Maika-78 a paralelo abagatan (ilo)", 1, "http://ilo.wikipedia.org/wiki/Maika-78_a_paralelo_abagatan"]], "data": [["us", 6], ["ca", 1], ["gr", 1], ["gb", 1]]};

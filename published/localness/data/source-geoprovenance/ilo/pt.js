@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Portugal (ilo)", 60, "http://ilo.wikipedia.org/wiki/Portugal"], ["Lisbon (ilo)", 27, "http://ilo.wikipedia.org/wiki/Lisbon"]], "data": [["pt", 7], ["us", 5], ["fr", 1]]};

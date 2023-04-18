@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Surinam (ca)", 167, "http://ca.wikipedia.org/wiki/Surinam"], ["Paramaribo (ca)", 16, "http://ca.wikipedia.org/wiki/Paramaribo"], ["Reserva natural del Surinam central (ca)", 4, "http://ca.wikipedia.org/wiki/Reserva_natural_del_Surinam_central"]], "data": [["fr", 4], ["us", 3], ["nl", 2], ["de", 1], ["jp", 1], ["gb", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Bahrain (cy)", 57, "http://cy.wikipedia.org/wiki/Bahrain"], ["Manama (cy)", 12, "http://cy.wikipedia.org/wiki/Manama"], ["Protestiadau Bahrain 2011 (cy)", 3, "http://cy.wikipedia.org/wiki/Protestiadau_Bahrain_2011"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Franske Sydlige og Antarktiske Territorier (da)", 44, "http://da.wikipedia.org/wiki/Franske_Sydlige_og_Antarktiske_Territorier"], ["Kerguelen (da)", 41, "http://da.wikipedia.org/wiki/Kerguelen"]], "data": [["de", 1], ["us", 1]]};

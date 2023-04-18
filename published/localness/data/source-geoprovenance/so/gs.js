@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Koonfur Joorjiya iyo Koonfurta Jasiiradaha Sanwij (so)", 20, "http://so.wikipedia.org/wiki/Koonfur_Joorjiya_iyo_Koonfurta_Jasiiradaha_Sanwij"]], "data": []};

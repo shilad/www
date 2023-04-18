@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": []}, "articles": [["Sancte Elene \u012aeg (ang)", 19, "http://ang.wikipedia.org/wiki/Sancte_Elene_%C4%AAeg"], ["Sancte Elene \u012aeg, Upstige\u012beg and Tristan da Cunha (ang)", 14, "http://ang.wikipedia.org/wiki/Sancte_Elene_%C4%AAeg%2C_Upstige%C4%ABeg_and_Tristan_da_Cunha"]], "data": []};

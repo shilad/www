@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Indien (bar)", 150, "http://bar.wikipedia.org/wiki/Indien"], ["Dehradun (bar)", 5, "http://bar.wikipedia.org/wiki/Dehradun"], ["Buddh International Circuit (bar)", 2, "http://bar.wikipedia.org/wiki/Buddh_International_Circuit"]], "data": [["us", 3], ["de", 2], ["in", 1]]};

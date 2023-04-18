@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Frantziaren lurralde austral eta antartikoak (eu)", 11, "http://eu.wikipedia.org/wiki/Frantziaren_lurralde_austral_eta_antartikoak"], ["Kerguelen uharteak (eu)", 8, "http://eu.wikipedia.org/wiki/Kerguelen_uharteak"]], "data": [["fr", 2], ["uy", 1]]};

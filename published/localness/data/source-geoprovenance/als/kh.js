@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kambodscha (als)", 74, "http://als.wikipedia.org/wiki/Kambodscha"], ["S\u00fcdostasien (als)", 46, "http://als.wikipedia.org/wiki/S%C3%BCdostasien"]], "data": [["de", 7], ["us", 4], ["at", 1]]};

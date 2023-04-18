@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kongo Respublikasi (uz)", 36, "http://uz.wikipedia.org/wiki/Kongo_Respublikasi"], ["Brazzavil (uz)", 7, "http://uz.wikipedia.org/wiki/Brazzavil"], ["Livingston sharsharalari (uz)", 3, "http://uz.wikipedia.org/wiki/Livingston_sharsharalari"]], "data": []};

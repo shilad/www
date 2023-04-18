@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Cura\u00e7ao (cy)", 25, "http://cy.wikipedia.org/wiki/Cura%C3%A7ao"], ["Antilles yr Iseldiroedd (cy)", 18, "http://cy.wikipedia.org/wiki/Antilles_yr_Iseldiroedd"], ["Ynysoedd ABC (cy)", 6, "http://cy.wikipedia.org/wiki/Ynysoedd_ABC"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Tanzania (ilo)", 54, "http://ilo.wikipedia.org/wiki/Tanzania"], ["Bantay Kilimanjaro (ilo)", 24, "http://ilo.wikipedia.org/wiki/Bantay_Kilimanjaro"], ["Danaw Tanganyika (ilo)", 10, "http://ilo.wikipedia.org/wiki/Danaw_Tanganyika"]], "data": [["us", 3], ["zm", 1], ["fr", 1], ["ch", 1], ["it", 1], ["at", 1], ["gb", 1]]};

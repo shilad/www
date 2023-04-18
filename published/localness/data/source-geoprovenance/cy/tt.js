@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Port of Spain (cy)", 14, "http://cy.wikipedia.org/wiki/Port_of_Spain"], ["Tobago (cy)", 13, "http://cy.wikipedia.org/wiki/Tobago"], ["Trinidad (cy)", 11, "http://cy.wikipedia.org/wiki/Trinidad"]], "data": []};

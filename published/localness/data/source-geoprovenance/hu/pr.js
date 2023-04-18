@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Puerto Rico (hu)", 424, "http://hu.wikipedia.org/wiki/Puerto_Rico"], ["San Juan (hu)", 56, "http://hu.wikipedia.org/wiki/San_Juan"], ["Arecibo Obszervat\u00f3rium (hu)", 30, "http://hu.wikipedia.org/wiki/Arecibo_Obszervat%C3%B3rium"]], "data": [["us", 11], ["pr", 2], ["hk", 1], ["hu", 1]]};

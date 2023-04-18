@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Sri Lanca (cy)", 62, "http://cy.wikipedia.org/wiki/Sri_Lanca"], ["Sri Jayawardenapura Kotte (cy)", 12, "http://cy.wikipedia.org/wiki/Sri_Jayawardenapura_Kotte"], ["Copa Adda (cy)", 6, "http://cy.wikipedia.org/wiki/Copa_Adda"], ["Ratnapura (cy)", 3, "http://cy.wikipedia.org/wiki/Ratnapura"]], "data": []};

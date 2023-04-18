@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Port of Spain (vi)", 41, "http://vi.wikipedia.org/wiki/Port_of_Spain"], ["Trinidad (vi)", 27, "http://vi.wikipedia.org/wiki/Trinidad"], ["Tobago (vi)", 22, "http://vi.wikipedia.org/wiki/Tobago"], ["Chaguanas (vi)", 8, "http://vi.wikipedia.org/wiki/Chaguanas"]], "data": [["tt", 7], ["us", 4], ["ch", 1], ["gb", 1], ["it", 1]]};

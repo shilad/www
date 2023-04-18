@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Saint-Pierre a Miquelon (cs)", 109, "http://cs.wikipedia.org/wiki/Saint-Pierre_a_Miquelon"], ["Saint-Pierre (cs)", 29, "http://cs.wikipedia.org/wiki/Saint-Pierre"], ["Morne de la Grande Montagne (cs)", 16, "http://cs.wikipedia.org/wiki/Morne_de_la_Grande_Montagne"]], "data": [["us", 1]]};

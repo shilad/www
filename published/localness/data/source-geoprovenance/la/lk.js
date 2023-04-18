@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Taprobane (la)", 54, "http://la.wikipedia.org/wiki/Taprobane"], ["Taprobane Tamulensis (la)", 10, "http://la.wikipedia.org/wiki/Taprobane_Tamulensis"], ["Sri Jayawardenapura Kotte (la)", 6, "http://la.wikipedia.org/wiki/Sri_Jayawardenapura_Kotte"]], "data": []};

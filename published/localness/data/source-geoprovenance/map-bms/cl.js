@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Chile (map-bms)", 54, "http://map-bms.wikipedia.org/wiki/Chile"], ["Concepci\u00f3n (map-bms)", 9, "http://map-bms.wikipedia.org/wiki/Concepci%C3%B3n"]], "data": []};

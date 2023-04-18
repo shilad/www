@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "it": []}, "articles": [["Sud\u00e0frica (sc)", 39, "http://sc.wikipedia.org/wiki/Sud%C3%A0frica"], ["Mesa (geografia) (sc)", 10, "http://sc.wikipedia.org/wiki/Mesa_%28geografia%29"]], "data": [["it", 0.8064516129032258], ["all", 0.0]]};

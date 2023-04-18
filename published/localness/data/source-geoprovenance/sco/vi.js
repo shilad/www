@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Saint Thomas, U.S. Virgin Islands (sco)", 2, "http://sco.wikipedia.org/wiki/Saint_Thomas%2C_U.S._Virgin_Islands"]], "data": [["kw", 1], ["us", 1]]};

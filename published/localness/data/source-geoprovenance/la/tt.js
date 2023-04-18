@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Insula Trinitatis (la)", 13, "http://la.wikipedia.org/wiki/Insula_Trinitatis"], ["Tabacum (insula) (la)", 4, "http://la.wikipedia.org/wiki/Tabacum_%28insula%29"]], "data": []};

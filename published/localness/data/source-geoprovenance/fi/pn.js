@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Pitcairn (fi)", 254, "http://fi.wikipedia.org/wiki/Pitcairn"], ["HMS Bounty (fi)", 87, "http://fi.wikipedia.org/wiki/HMS_Bounty"], ["Adamstown (fi)", 18, "http://fi.wikipedia.org/wiki/Adamstown"], ["Henderson Island (fi)", 9, "http://fi.wikipedia.org/wiki/Henderson_Island"]], "data": []};

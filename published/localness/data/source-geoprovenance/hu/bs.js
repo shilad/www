@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Bahama-szigetek (hu)", 331, "http://hu.wikipedia.org/wiki/Bahama-szigetek"], ["Nassau (Bahama-szigetek) (hu)", 69, "http://hu.wikipedia.org/wiki/Nassau_%28Bahama-szigetek%29"]], "data": [["hk", 2], ["bs", 2], ["de", 1], ["us", 1], ["hu", 1]]};

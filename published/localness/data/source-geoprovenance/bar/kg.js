@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kirgisistan (bar)", 81, "http://bar.wikipedia.org/wiki/Kirgisistan"], ["Torugart-Poss (bar)", 7, "http://bar.wikipedia.org/wiki/Torugart-Poss"]], "data": []};

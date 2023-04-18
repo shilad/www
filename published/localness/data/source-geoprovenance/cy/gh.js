@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Ghana (cy)", 57, "http://cy.wikipedia.org/wiki/Ghana"], ["Accra (cy)", 14, "http://cy.wikipedia.org/wiki/Accra"], ["Llyn Volta (cy)", 8, "http://cy.wikipedia.org/wiki/Llyn_Volta"], ["Afon Volta (cy)", 5, "http://cy.wikipedia.org/wiki/Afon_Volta"], ["Kete (cy)", 3, "http://cy.wikipedia.org/wiki/Kete"]], "data": []};

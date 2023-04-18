@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Illas Malvinas (oc)", 39, "http://oc.wikipedia.org/wiki/Illas_Malvinas"], ["Gu\u00e8rra de las Malvinas (oc)", 7, "http://oc.wikipedia.org/wiki/Gu%C3%A8rra_de_las_Malvinas"], ["Port Stanley (oc)", 3, "http://oc.wikipedia.org/wiki/Port_Stanley"]], "data": []};

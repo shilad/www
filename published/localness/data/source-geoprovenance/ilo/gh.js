@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Ghana (ilo)", 41, "http://ilo.wikipedia.org/wiki/Ghana"], ["Maika-6 a paralelo amianan (ilo)", 1, "http://ilo.wikipedia.org/wiki/Maika-6_a_paralelo_amianan"]], "data": []};

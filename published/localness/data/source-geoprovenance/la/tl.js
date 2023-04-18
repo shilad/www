@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Timoria Orientalis (la)", 55, "http://la.wikipedia.org/wiki/Timoria_Orientalis"], ["Dili (la)", 10, "http://la.wikipedia.org/wiki/Dili"]], "data": []};

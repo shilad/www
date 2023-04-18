@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Benin (uz)", 27, "http://uz.wikipedia.org/wiki/Benin"], ["G\u02bbarbiy Afrika (uz)", 21, "http://uz.wikipedia.org/wiki/G%CA%BBarbiy_Afrika"], ["Porto-Novo (uz)", 12, "http://uz.wikipedia.org/wiki/Porto-Novo"], ["Zu (Benin departamenti) (uz)", 1, "http://uz.wikipedia.org/wiki/Zu_%28Benin_departamenti%29"]], "data": []};

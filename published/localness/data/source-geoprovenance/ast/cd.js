@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Rep\u00fablica Democr\u00e1tica d'El Congo (ast)", 67, "http://ast.wikipedia.org/wiki/Rep%C3%BAblica_Democr%C3%A1tica_d%27El_Congo"]], "data": []};

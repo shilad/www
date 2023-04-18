@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["\u0411\u0438\u0448\u043a\u0435\u043a \u043e\u0448 (myv)", 11, "http://myv.wikipedia.org/wiki/%D0%91%D0%B8%D1%88%D0%BA%D0%B5%D0%BA_%D0%BE%D1%88"]], "data": []};

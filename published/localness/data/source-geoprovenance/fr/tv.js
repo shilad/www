@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Funafuti (fr)", 107, "http://fr.wikipedia.org/wiki/Funafuti"]], "data": [["au", 6], ["fr", 5], ["ca", 4], ["us", 4], ["nz", 4], ["ws", 2], ["fj", 2], ["sy", 1]]};

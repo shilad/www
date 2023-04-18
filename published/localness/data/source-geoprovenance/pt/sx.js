@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["S\u00e3o Martinho (Pa\u00edses Baixos) (pt)", 519, "http://pt.wikipedia.org/wiki/S%C3%A3o_Martinho_%28Pa%C3%ADses_Baixos%29"], ["Philipsburg (pt)", 106, "http://pt.wikipedia.org/wiki/Philipsburg"]], "data": [["an", 1]]};

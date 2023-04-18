@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["jstor.org", 8], ["other", 18]], "us": [["jstor.org", 8], ["other", 13]]}, "articles": [["\u0e42\u0e21\u0e42\u0e23\u0e19\u0e35 (th)", 18, "http://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%A1%E0%B9%82%E0%B8%A3%E0%B8%99%E0%B8%B5"]], "data": [["us", 29], ["gb", 5], ["fr", 1], ["tz", 1], ["as", 1], ["au", 1], ["nl", 1], ["ug", 1]]};

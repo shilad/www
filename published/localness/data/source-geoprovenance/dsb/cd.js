@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Demokratiska republika Kongo (dsb)", 38, "http://dsb.wikipedia.org/wiki/Demokratiska_republika_Kongo"], ["Kisangani (dsb)", 1, "http://dsb.wikipedia.org/wiki/Kisangani"]], "data": []};

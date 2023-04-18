@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Charlotte Amalie (fi)", 25, "http://fi.wikipedia.org/wiki/Charlotte_Amalie"], ["Saint Thomas (fi)", 23, "http://fi.wikipedia.org/wiki/Saint_Thomas"], ["Christiansted (fi)", 8, "http://fi.wikipedia.org/wiki/Christiansted"], ["Cruz Bay (fi)", 2, "http://fi.wikipedia.org/wiki/Cruz_Bay"]], "data": [["us", 6], ["dk", 1]]};

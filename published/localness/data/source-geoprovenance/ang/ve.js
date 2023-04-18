@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Feneswela (ang)", 93, "http://ang.wikipedia.org/wiki/Feneswela"], ["Merida (Feneswela) (ang)", 17, "http://ang.wikipedia.org/wiki/Merida_%28Feneswela%29"]], "data": []};

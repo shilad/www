@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Dagiti Nagkaykaysa nga Emirato nga Arabo (ilo)", 40, "http://ilo.wikipedia.org/wiki/Dagiti_Nagkaykaysa_nga_Emirato_nga_Arabo"]], "data": [["ae", 6], ["us", 5], ["gb", 2], ["is", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["USA (tn)", 128, "http://tn.wikipedia.org/wiki/USA"], ["Kemedi ya lefatshe la Botswana kwa Washington, D.C. (tn)", 4, "http://tn.wikipedia.org/wiki/Kemedi_ya_lefatshe_la_Botswana_kwa_Washington%2C_D.C."], ["Chemult (tn)", 1, "http://tn.wikipedia.org/wiki/Chemult"]], "data": []};

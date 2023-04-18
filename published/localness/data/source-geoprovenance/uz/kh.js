@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kambodja (uz)", 59, "http://uz.wikipedia.org/wiki/Kambodja"], ["Janubi-Sharqiy Osiyo (uz)", 40, "http://uz.wikipedia.org/wiki/Janubi-Sharqiy_Osiyo"], ["Pnompen (uz)", 11, "http://uz.wikipedia.org/wiki/Pnompen"], ["Angkor (uz)", 8, "http://uz.wikipedia.org/wiki/Angkor"]], "data": []};

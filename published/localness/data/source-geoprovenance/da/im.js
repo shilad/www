@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Isle of Man (da)", 173, "http://da.wikipedia.org/wiki/Isle_of_Man"], ["Douglas (Isle of Man) (da)", 23, "http://da.wikipedia.org/wiki/Douglas_%28Isle_of_Man%29"]], "data": [["im", 2], ["de", 1], ["ch", 1], ["gb", 1], ["us", 1]]};

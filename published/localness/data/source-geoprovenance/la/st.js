@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Insulae Sancti Thomae et Principis (la)", 20, "http://la.wikipedia.org/wiki/Insulae_Sancti_Thomae_et_Principis"], ["Urbs Sancti Thomae (la)", 6, "http://la.wikipedia.org/wiki/Urbs_Sancti_Thomae"]], "data": []};

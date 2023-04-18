@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Guinea (la)", 33, "http://la.wikipedia.org/wiki/Guinea"], ["Conakry (la)", 20, "http://la.wikipedia.org/wiki/Conakry"], ["Universitas Conakry (la)", 1, "http://la.wikipedia.org/wiki/Universitas_Conakry"]], "data": [["fr", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Dinas San Marino (cy)", 95, "http://cy.wikipedia.org/wiki/Dinas_San_Marino"], ["San Marino (cy)", 40, "http://cy.wikipedia.org/wiki/San_Marino"], ["Monte Titano (cy)", 11, "http://cy.wikipedia.org/wiki/Monte_Titano"]], "data": []};

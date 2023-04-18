@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Aserbaidschan (bar)", 74, "http://bar.wikipedia.org/wiki/Aserbaidschan"], ["Republik Bergkarabach (bar)", 25, "http://bar.wikipedia.org/wiki/Republik_Bergkarabach"]], "data": [["us", 5], ["de", 4], ["am", 2], ["az", 2], ["au", 1]]};

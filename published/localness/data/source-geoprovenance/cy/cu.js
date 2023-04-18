@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Ciwba (cy)", 69, "http://cy.wikipedia.org/wiki/Ciwba"], ["La Habana (cy)", 11, "http://cy.wikipedia.org/wiki/La_Habana"], ["Antilles Mwyaf (cy)", 5, "http://cy.wikipedia.org/wiki/Antilles_Mwyaf"], ["Granma (cwch) (cy)", 1, "http://cy.wikipedia.org/wiki/Granma_%28cwch%29"]], "data": []};

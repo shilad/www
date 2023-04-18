@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": []}, "articles": [["Sudan (ang)", 74, "http://ang.wikipedia.org/wiki/Sudan"], ["Beadu Omdurmanes (ang)", 3, "http://ang.wikipedia.org/wiki/Beadu_Omdurmanes"]], "data": []};

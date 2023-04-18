@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["tuvaluislands.com", 16], ["geohive.com", 7], ["worldstatesmen.org", 5], ["other", 2]]}, "articles": [["Funafuti (sv)", 29, "http://sv.wikipedia.org/wiki/Funafuti"]], "data": [["ca", 15], ["us", 7], ["nl", 6], ["au", 2], ["va", 1], ["is", 1]]};

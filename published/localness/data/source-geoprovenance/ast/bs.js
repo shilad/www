@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Les Bahames (ast)", 52, "http://ast.wikipedia.org/wiki/Les_Bahames"], ["Eleuthera Norte (ast)", 1, "http://ast.wikipedia.org/wiki/Eleuthera_Norte"]], "data": []};

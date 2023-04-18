@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Jerman (map-bms)", 142, "http://map-bms.wikipedia.org/wiki/Jerman"], ["Frankfurt am Main (map-bms)", 33, "http://map-bms.wikipedia.org/wiki/Frankfurt_am_Main"], ["Uetersen (map-bms)", 5, "http://map-bms.wikipedia.org/wiki/Uetersen"]], "data": []};

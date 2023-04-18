@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Guinea Bissaviensis (la)", 26, "http://la.wikipedia.org/wiki/Guinea_Bissaviensis"], ["Bissau (la)", 10, "http://la.wikipedia.org/wiki/Bissau"], ["Caravela (la)", 2, "http://la.wikipedia.org/wiki/Caravela"]], "data": []};

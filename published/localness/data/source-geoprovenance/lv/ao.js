@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Angola (lv)", 65, "http://lv.wikipedia.org/wiki/Angola"], ["Luanda (lv)", 21, "http://lv.wikipedia.org/wiki/Luanda"], ["2010. gada \u0100frikas N\u0101ciju kauss (lv)", 14, "http://lv.wikipedia.org/wiki/2010._gada_%C4%80frikas_N%C4%81ciju_kauss"]], "data": [["pt", 1]]};

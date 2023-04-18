@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Saint-Barth\u00e9lemy (Antille francesi) (it)", 535, "http://it.wikipedia.org/wiki/Saint-Barth%C3%A9lemy_%28Antille_francesi%29"], ["Aeroporto di Saint Jean Gustaf III (it)", 73, "http://it.wikipedia.org/wiki/Aeroporto_di_Saint_Jean_Gustaf_III"], ["Gustavia (it)", 67, "http://it.wikipedia.org/wiki/Gustavia"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Affrica (cy)", 125, "http://cy.wikipedia.org/wiki/Affrica"], ["Gweriniaeth Canolbarth Affrica (cy)", 35, "http://cy.wikipedia.org/wiki/Gweriniaeth_Canolbarth_Affrica"], ["Bangui (cy)", 8, "http://cy.wikipedia.org/wiki/Bangui"]], "data": []};

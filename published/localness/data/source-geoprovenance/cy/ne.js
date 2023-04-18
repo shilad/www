@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Niger (cy)", 48, "http://cy.wikipedia.org/wiki/Niger"], ["Niamey (cy)", 11, "http://cy.wikipedia.org/wiki/Niamey"], ["Rhestr mynyddoedd ar y Lleuad (cy)", 7, "http://cy.wikipedia.org/wiki/Rhestr_mynyddoedd_ar_y_Lleuad"], ["Parc Cenedlaethol W (cy)", 5, "http://cy.wikipedia.org/wiki/Parc_Cenedlaethol_W"]], "data": []};

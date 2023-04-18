@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Libeeria (et)", 116, "http://et.wikipedia.org/wiki/Libeeria"], ["Monrovia (et)", 15, "http://et.wikipedia.org/wiki/Monrovia"], ["Gbarnga (et)", 7, "http://et.wikipedia.org/wiki/Gbarnga"], ["Bomi maakond (et)", 5, "http://et.wikipedia.org/wiki/Bomi_maakond"]], "data": [["ee", 1], ["us", 1]]};

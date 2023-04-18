@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Gweriniaeth Dominica (cy)", 43, "http://cy.wikipedia.org/wiki/Gweriniaeth_Dominica"], ["Hispaniola (cy)", 19, "http://cy.wikipedia.org/wiki/Hispaniola"], ["Santo Domingo (cy)", 11, "http://cy.wikipedia.org/wiki/Santo_Domingo"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["George Town (Kajmansk\u00e9 ostrovy) (cs)", 35, "http://cs.wikipedia.org/wiki/George_Town_%28Kajmansk%C3%A9_ostrovy%29"], ["The Bluff (cs)", 7, "http://cs.wikipedia.org/wiki/The_Bluff"]], "data": [["us", 1]]};

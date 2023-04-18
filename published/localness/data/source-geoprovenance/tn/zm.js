@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Zambia (tn)", 37, "http://tn.wikipedia.org/wiki/Zambia"], ["Lefelo la motlakase kwa maphothophothong a Victoria (tn)", 8, "http://tn.wikipedia.org/wiki/Lefelo_la_motlakase_kwa_maphothophothong_a_Victoria"]], "data": []};

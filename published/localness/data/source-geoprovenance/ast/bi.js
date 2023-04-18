@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Burundi (ast)", 48, "http://ast.wikipedia.org/wiki/Burundi"], ["Provincia de Kirundo (ast)", 3, "http://ast.wikipedia.org/wiki/Provincia_de_Kirundo"], ["Provincia de Bururi (ast)", 1, "http://ast.wikipedia.org/wiki/Provincia_de_Bururi"]], "data": []};

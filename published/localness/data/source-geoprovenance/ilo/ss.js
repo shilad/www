@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Abagatan a Sudan (ilo)", 34, "http://ilo.wikipedia.org/wiki/Abagatan_a_Sudan"]], "data": [["us", 5], ["gb", 2], ["si", 1], ["jp", 1], ["pe", 1]]};

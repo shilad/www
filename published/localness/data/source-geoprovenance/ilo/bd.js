@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["worldcat.org", 6], ["other", 18]]}, "articles": [["Banglades (ilo)", 41, "http://ilo.wikipedia.org/wiki/Banglades"], ["Dhaka (ilo)", 15, "http://ilo.wikipedia.org/wiki/Dhaka"]], "data": [["us", 16], ["bd", 9], ["gb", 2], ["de", 1], ["ro", 1]]};

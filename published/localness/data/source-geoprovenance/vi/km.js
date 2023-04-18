@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Moroni, Comoros (vi)", 16, "http://vi.wikipedia.org/wiki/Moroni%2C_Comoros"], ["S\u00e2n bay qu\u1ed1c t\u1ebf Prince Said Ibrahim (vi)", 7, "http://vi.wikipedia.org/wiki/S%C3%A2n_bay_qu%E1%BB%91c_t%E1%BA%BF_Prince_Said_Ibrahim"]], "data": [["us", 10], ["gb", 5], ["fr", 4], ["de", 2], ["ht", 1], ["sn", 1]]};

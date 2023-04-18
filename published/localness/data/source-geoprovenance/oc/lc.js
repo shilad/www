@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Santa L\u00facia (oc)", 29, "http://oc.wikipedia.org/wiki/Santa_L%C3%BAcia"], ["Castries (oc)", 10, "http://oc.wikipedia.org/wiki/Castries"], ["La B\u00f2ria (Santa L\u00facia) (oc)", 2, "http://oc.wikipedia.org/wiki/La_B%C3%B2ria_%28Santa_L%C3%BAcia%29"]], "data": []};

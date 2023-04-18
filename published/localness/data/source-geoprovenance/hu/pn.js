@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Pitcairn-szigetek (hu)", 270, "http://hu.wikipedia.org/wiki/Pitcairn-szigetek"], ["Henderson-sziget (hu)", 9, "http://hu.wikipedia.org/wiki/Henderson-sziget"]], "data": [["hu", 5], ["us", 4], ["pn", 2], ["fr", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Serra Leoa (gl)", 79, "http://gl.wikipedia.org/wiki/Serra_Leoa"], ["Freetown (gl)", 25, "http://gl.wikipedia.org/wiki/Freetown"], ["Provincia do Sur, Serra Leoa (gl)", 2, "http://gl.wikipedia.org/wiki/Provincia_do_Sur%2C_Serra_Leoa"]], "data": []};

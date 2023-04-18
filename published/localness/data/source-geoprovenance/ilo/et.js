@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Etiopia (ilo)", 46, "http://ilo.wikipedia.org/wiki/Etiopia"], ["Kappon ti Aprika (ilo)", 18, "http://ilo.wikipedia.org/wiki/Kappon_ti_Aprika"]], "data": [["us", 19], ["gb", 2], ["fr", 1], ["ch", 1], ["nl", 1], ["gr", 1], ["ca", 1], ["qa", 1], ["au", 1], ["ug", 1], ["gl", 1], ["sn", 1]]};

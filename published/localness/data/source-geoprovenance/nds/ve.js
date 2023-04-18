@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Venezuela (nds)", 33, "http://nds.wikipedia.org/wiki/Venezuela"], ["Angel-Waterfall (nds)", 9, "http://nds.wikipedia.org/wiki/Angel-Waterfall"]], "data": []};

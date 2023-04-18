@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Islles Malvines (ast)", 46, "http://ast.wikipedia.org/wiki/Islles_Malvines"], ["Guerra de les Malvines (ast)", 16, "http://ast.wikipedia.org/wiki/Guerra_de_les_Malvines"]], "data": []};

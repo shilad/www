@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Civitates Foederatae Micronesiae (la)", 31, "http://la.wikipedia.org/wiki/Civitates_Foederatae_Micronesiae"], ["Palicrum (la)", 5, "http://la.wikipedia.org/wiki/Palicrum"]], "data": [["us", 3]]};

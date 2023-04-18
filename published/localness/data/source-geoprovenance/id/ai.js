@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Anguilla (id)", 92, "http://id.wikipedia.org/wiki/Anguilla"], ["The Valley (id)", 13, "http://id.wikipedia.org/wiki/The_Valley"], ["Bandar Udara Internasional Clayton J. Lloyd (id)", 6, "http://id.wikipedia.org/wiki/Bandar_Udara_Internasional_Clayton_J._Lloyd"]], "data": []};

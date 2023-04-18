@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kazakhstan (hif)", 49, "http://hif.wikipedia.org/wiki/Kazakhstan"], ["Eurasia (hif)", 24, "http://hif.wikipedia.org/wiki/Eurasia"], ["Aral Sea (hif)", 17, "http://hif.wikipedia.org/wiki/Aral_Sea"], ["Astana (hif)", 14, "http://hif.wikipedia.org/wiki/Astana"]], "data": []};

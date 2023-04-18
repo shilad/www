@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Pitkern Ailen (pih)", 70, "http://pih.wikipedia.org/wiki/Pitkern_Ailen"], ["Adamstown (pih)", 17, "http://pih.wikipedia.org/wiki/Adamstown"], ["Henderson Ailen (pih)", 7, "http://pih.wikipedia.org/wiki/Henderson_Ailen"]], "data": []};

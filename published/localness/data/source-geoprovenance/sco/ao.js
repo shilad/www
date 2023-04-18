@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Angolae (sco)", 26, "http://sco.wikipedia.org/wiki/Angolae"], ["Luanda (sco)", 13, "http://sco.wikipedia.org/wiki/Luanda"], ["Huambo (sco)", 2, "http://sco.wikipedia.org/wiki/Huambo"], ["Luanda Province (sco)", 1, "http://sco.wikipedia.org/wiki/Luanda_Province"]], "data": [["pt", 2], ["ao", 1]]};

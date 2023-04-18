@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Insulae Bahamenses (la)", 57, "http://la.wikipedia.org/wiki/Insulae_Bahamenses"], ["Nassau (la)", 14, "http://la.wikipedia.org/wiki/Nassau"]], "data": []};

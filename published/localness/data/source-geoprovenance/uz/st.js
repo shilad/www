@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["San-Tome va Prinsipi (uz)", 42, "http://uz.wikipedia.org/wiki/San-Tome_va_Prinsipi"], ["San-Tome (uz)", 9, "http://uz.wikipedia.org/wiki/San-Tome"]], "data": []};

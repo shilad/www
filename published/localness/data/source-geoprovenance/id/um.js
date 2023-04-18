@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Pulau Baker (id)", 39, "http://id.wikipedia.org/wiki/Pulau_Baker"], ["Pulau Navassa (id)", 38, "http://id.wikipedia.org/wiki/Pulau_Navassa"], ["Bandar Udara Henderson Field (id)", 29, "http://id.wikipedia.org/wiki/Bandar_Udara_Henderson_Field"]], "data": [["us", 16], ["ca", 1], ["au", 1]]};

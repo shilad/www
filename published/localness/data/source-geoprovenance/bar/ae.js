@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Vaeinigte Arabische Emirate (bar)", 68, "http://bar.wikipedia.org/wiki/Vaeinigte_Arabische_Emirate"], ["Nahwa (bar)", 6, "http://bar.wikipedia.org/wiki/Nahwa"]], "data": [["de", 5], ["us", 5], ["ae", 2], ["gb", 2], ["it", 1]]};

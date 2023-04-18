@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Griekenlaand (nds-nl)", 87, "http://nds-nl.wikipedia.org/wiki/Griekenlaand"], ["Kreta (nds-nl)", 25, "http://nds-nl.wikipedia.org/wiki/Kreta"], ["Korfoe (nds-nl)", 10, "http://nds-nl.wikipedia.org/wiki/Korfoe"], ["Zakynthos (nds-nl)", 8, "http://nds-nl.wikipedia.org/wiki/Zakynthos"]], "data": []};

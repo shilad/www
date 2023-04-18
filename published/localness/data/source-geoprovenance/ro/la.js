@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Laos (ro)", 214, "http://ro.wikipedia.org/wiki/Laos"], ["Mekong (ro)", 78, "http://ro.wikipedia.org/wiki/Mekong"], ["Vientiane (ro)", 25, "http://ro.wikipedia.org/wiki/Vientiane"], ["Cascada Khone (ro)", 15, "http://ro.wikipedia.org/wiki/Cascada_Khone"]], "data": [["ro", 4], ["us", 4], ["th", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Vietnam (pfl)", 53, "http://pfl.wikipedia.org/wiki/Vietnam"], ["Ho-Chi Minh-Schdadt (pfl)", 21, "http://pfl.wikipedia.org/wiki/Ho-Chi_Minh-Schdadt"], ["Dong Hoi (pfl)", 9, "http://pfl.wikipedia.org/wiki/Dong_Hoi"], ["Nha Trang (pfl)", 5, "http://pfl.wikipedia.org/wiki/Nha_Trang"]], "data": []};

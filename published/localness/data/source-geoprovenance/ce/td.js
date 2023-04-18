@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["usgs.gov", 7], ["other", 14]]}, "articles": [["\u0427\u0430\u0434 (ce)", 32, "http://ce.wikipedia.org/wiki/%D0%A7%D0%B0%D0%B4"], ["\u041d\u0434\u0436\u0430\u043c\u0435\u043d\u0430 (ce)", 14, "http://ce.wikipedia.org/wiki/%D0%9D%D0%B4%D0%B6%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0"]], "data": [["us", 16], ["ru", 4], ["gb", 4], ["ca", 1]]};

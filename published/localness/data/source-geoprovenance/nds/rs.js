@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Serbien (nds)", 47, "http://nds.wikipedia.org/wiki/Serbien"], ["Serbien un Montenegro (nds)", 39, "http://nds.wikipedia.org/wiki/Serbien_un_Montenegro"], ["Belgrad (nds)", 30, "http://nds.wikipedia.org/wiki/Belgrad"]], "data": []};

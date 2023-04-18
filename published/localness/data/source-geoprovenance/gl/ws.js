@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Apia (gl)", 13, "http://gl.wikipedia.org/wiki/Apia"], ["Upolu (gl)", 7, "http://gl.wikipedia.org/wiki/Upolu"], ["Savaii (gl)", 4, "http://gl.wikipedia.org/wiki/Savaii"], ["Arquidiocese cat\u00f3lica latina de Samoa-Apia (gl)", 2, "http://gl.wikipedia.org/wiki/Arquidiocese_cat%C3%B3lica_latina_de_Samoa-Apia"]], "data": []};

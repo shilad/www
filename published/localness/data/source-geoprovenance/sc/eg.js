@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Egitu (sc)", 54, "http://sc.wikipedia.org/wiki/Egitu"], ["Cairo (sc)", 39, "http://sc.wikipedia.org/wiki/Cairo"], ["Alessandria d'Egitto (sc)", 21, "http://sc.wikipedia.org/wiki/Alessandria_d%27Egitto"], ["El Alamein (sc)", 1, "http://sc.wikipedia.org/wiki/El_Alamein"]], "data": []};

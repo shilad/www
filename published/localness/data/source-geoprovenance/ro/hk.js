@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Hong Kong (ro)", 493, "http://ro.wikipedia.org/wiki/Hong_Kong"], ["Shenzhen (ro)", 66, "http://ro.wikipedia.org/wiki/Shenzhen"], ["Bank of China Tower (ro)", 17, "http://ro.wikipedia.org/wiki/Bank_of_China_Tower"], ["Kowloon (ro)", 14, "http://ro.wikipedia.org/wiki/Kowloon"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Falklandak (eu)", 106, "http://eu.wikipedia.org/wiki/Falklandak"], ["Falklandetako Gerra (eu)", 22, "http://eu.wikipedia.org/wiki/Falklandetako_Gerra"], ["Port Stanley (eu)", 9, "http://eu.wikipedia.org/wiki/Port_Stanley"], ["Soledad (uhartea) (eu)", 4, "http://eu.wikipedia.org/wiki/Soledad_%28uhartea%29"]], "data": []};

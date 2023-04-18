@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Mauritania (ilo)", 46, "http://ilo.wikipedia.org/wiki/Mauritania"], ["Sahara (ilo)", 19, "http://ilo.wikipedia.org/wiki/Sahara"]], "data": [["us", 4], ["de", 1]]};

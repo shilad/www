@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Argentina (ace)", 83, "http://ace.wikipedia.org/wiki/Argentina"], ["Buenos Aires (ace)", 28, "http://ace.wikipedia.org/wiki/Buenos_Aires"]], "data": []};

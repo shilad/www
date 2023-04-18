@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kuweit (ro)", 334, "http://ro.wikipedia.org/wiki/Kuweit"], ["Kuweit (ora\u0219) (ro)", 56, "http://ro.wikipedia.org/wiki/Kuweit_%28ora%C8%99%29"]], "data": [["ro", 3]]};

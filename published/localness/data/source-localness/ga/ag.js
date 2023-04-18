@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "gb": []}, "articles": [["Antigua agus Barb\u00fada (ga)", 36, "http://ga.wikipedia.org/wiki/Antigua_agus_Barb%C3%BAda"]], "data": [["gb", 1.0], ["all", 0.0]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Vielorrusia (gn)", 43, "http://gn.wikipedia.org/wiki/Vielorrusia"], ["FIFA Tembiesar\u00e1i Yvypav\u1ebd 2018 (gn)", 13, "http://gn.wikipedia.org/wiki/FIFA_Tembiesar%C3%A1i_Yvypav%E1%BA%BD_2018"]], "data": []};

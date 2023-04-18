@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kroasia (ace)", 86, "http://ace.wikipedia.org/wiki/Kroasia"], ["Universitas Juraj Dobrila di Pula (ace)", 2, "http://ace.wikipedia.org/wiki/Universitas_Juraj_Dobrila_di_Pula"]], "data": []};

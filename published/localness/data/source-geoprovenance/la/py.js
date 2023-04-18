@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Paraquaria (la)", 65, "http://la.wikipedia.org/wiki/Paraquaria"], ["Assumptio (urbs) (la)", 22, "http://la.wikipedia.org/wiki/Assumptio_%28urbs%29"], ["Minga Guazu (la)", 2, "http://la.wikipedia.org/wiki/Minga_Guazu"]], "data": []};

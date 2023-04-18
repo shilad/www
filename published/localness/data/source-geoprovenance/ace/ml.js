@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Mali (ace)", 48, "http://ace.wikipedia.org/wiki/Mali"], ["Meuseujid Raya Djenn\u00e9 (ace)", 7, "http://ace.wikipedia.org/wiki/Meuseujid_Raya_Djenn%C3%A9"]], "data": []};

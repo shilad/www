@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Saint Vincent a'r Grenadines (cy)", 35, "http://cy.wikipedia.org/wiki/Saint_Vincent_a%27r_Grenadines"], ["Kingstown (cy)", 11, "http://cy.wikipedia.org/wiki/Kingstown"]], "data": []};

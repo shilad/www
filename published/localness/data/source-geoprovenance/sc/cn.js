@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Cina (sc)", 57, "http://sc.wikipedia.org/wiki/Cina"], ["Asia (sc)", 57, "http://sc.wikipedia.org/wiki/Asia"], ["Beijing (sc)", 44, "http://sc.wikipedia.org/wiki/Beijing"], ["Zhengzhou (sc)", 10, "http://sc.wikipedia.org/wiki/Zhengzhou"], ["Unidade 731 (sc)", 9, "http://sc.wikipedia.org/wiki/Unidade_731"]], "data": []};

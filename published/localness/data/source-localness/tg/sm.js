@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "us": [["worldaerodata.com", 38], ["airport-data.com", 38], ["other", 2]]}, "articles": [["\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e (tg)", 32, "http://tg.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD-%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%BE"]], "data": [["us", 0.9878048780487805], ["all", 0.0]]};

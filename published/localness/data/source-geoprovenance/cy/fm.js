@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Taleithiau Ffederal Micronesia (cy)", 30, "http://cy.wikipedia.org/wiki/Taleithiau_Ffederal_Micronesia"], ["Palikir (cy)", 7, "http://cy.wikipedia.org/wiki/Palikir"]], "data": []};

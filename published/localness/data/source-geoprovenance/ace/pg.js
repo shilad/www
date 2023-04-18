@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Papua New Guinea (ace)", 66, "http://ace.wikipedia.org/wiki/Papua_New_Guinea"], ["Port Moresby (ace)", 11, "http://ace.wikipedia.org/wiki/Port_Moresby"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Timor Oriental (ast)", 49, "http://ast.wikipedia.org/wiki/Timor_Oriental"], ["Lospalos (ast)", 1, "http://ast.wikipedia.org/wiki/Lospalos"]], "data": []};

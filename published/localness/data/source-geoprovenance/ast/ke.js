@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kenya (ast)", 70, "http://ast.wikipedia.org/wiki/Kenya"], ["Gran valle del rift (ast)", 14, "http://ast.wikipedia.org/wiki/Gran_valle_del_rift"]], "data": []};

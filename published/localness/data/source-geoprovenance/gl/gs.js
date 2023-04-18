@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Illas Xeorxia do Sur e Sandwich do Sur (gl)", 15, "http://gl.wikipedia.org/wiki/Illas_Xeorxia_do_Sur_e_Sandwich_do_Sur"], ["Xeorxia do Sur (gl)", 11, "http://gl.wikipedia.org/wiki/Xeorxia_do_Sur"]], "data": []};

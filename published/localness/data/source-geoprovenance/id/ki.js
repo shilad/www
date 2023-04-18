@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kiritimati (id)", 13, "http://id.wikipedia.org/wiki/Kiritimati"], ["Bandar Udara Internasional Bonriki (id)", 5, "http://id.wikipedia.org/wiki/Bandar_Udara_Internasional_Bonriki"]], "data": [["us", 3], ["ki", 1], ["ca", 1], ["gb", 1]]};

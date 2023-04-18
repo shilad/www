@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Brunei (oc)", 47, "http://oc.wikipedia.org/wiki/Brunei"], ["Bandar Seri Begawan (oc)", 17, "http://oc.wikipedia.org/wiki/Bandar_Seri_Begawan"]], "data": []};

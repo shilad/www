@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["V\u00fdchodn\u00ed Timor (cs)", 287, "http://cs.wikipedia.org/wiki/V%C3%BDchodn%C3%AD_Timor"], ["Dili (cs)", 63, "http://cs.wikipedia.org/wiki/Dili"], ["Tatamailau (cs)", 12, "http://cs.wikipedia.org/wiki/Tatamailau"]], "data": [["us", 8], ["cz", 5], ["gb", 1]]};

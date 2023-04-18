@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["gujarat.gov.in", 13], ["nclm.nic.in", 8], ["google.com", 8]], "in": [["gujarat.gov.in", 13], ["nclm.nic.in", 8]]}, "articles": [], "data": [["in", 20], ["us", 8], ["to", 1]]};

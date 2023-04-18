@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Amianan a Korea (ilo)", 46, "http://ilo.wikipedia.org/wiki/Amianan_a_Korea"], ["Pyongyang (ilo)", 19, "http://ilo.wikipedia.org/wiki/Pyongyang"]], "data": [["us", 1]]};

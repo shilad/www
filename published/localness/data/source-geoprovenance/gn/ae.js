@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Aravia Emiryvy Joaju (gn)", 23, "http://gn.wikipedia.org/wiki/Aravia_Emiryvy_Joaju"], ["Burj Khalifa (gn)", 8, "http://gn.wikipedia.org/wiki/Burj_Khalifa"]], "data": [["ae", 3], ["es", 2], ["nz", 1], ["us", 1]]};

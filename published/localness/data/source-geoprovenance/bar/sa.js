@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Saudi Arabien (bar)", 83, "http://bar.wikipedia.org/wiki/Saudi_Arabien"], ["Arabische Hoibinsl (bar)", 17, "http://bar.wikipedia.org/wiki/Arabische_Hoibinsl"], ["Dschidda (bar)", 6, "http://bar.wikipedia.org/wiki/Dschidda"]], "data": []};

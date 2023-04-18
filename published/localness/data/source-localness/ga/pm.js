@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "gb": []}, "articles": [["Saint-Pierre-et-Miquelon (ga)", 21, "http://ga.wikipedia.org/wiki/Saint-Pierre-et-Miquelon"]], "data": [["gb", 1.0], ["all", 0.0]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Afrika (uz)", 89, "http://uz.wikipedia.org/wiki/Afrika"], ["Markaziy Afrika Respublikasi (uz)", 37, "http://uz.wikipedia.org/wiki/Markaziy_Afrika_Respublikasi"], ["Bangi (uz)", 10, "http://uz.wikipedia.org/wiki/Bangi"]], "data": []};

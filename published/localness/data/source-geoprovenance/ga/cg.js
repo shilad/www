@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Poblacht an Chong\u00f3 (ga)", 23, "http://ga.wikipedia.org/wiki/Poblacht_an_Chong%C3%B3"], ["Brazzaville (ga)", 10, "http://ga.wikipedia.org/wiki/Brazzaville"], ["Etoumbi (ga)", 3, "http://ga.wikipedia.org/wiki/Etoumbi"]], "data": []};

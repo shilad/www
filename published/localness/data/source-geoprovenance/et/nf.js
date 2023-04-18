@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Norfolki saar (et)", 23, "http://et.wikipedia.org/wiki/Norfolki_saar"], ["Nepeani saar (et)", 3, "http://et.wikipedia.org/wiki/Nepeani_saar"]], "data": []};

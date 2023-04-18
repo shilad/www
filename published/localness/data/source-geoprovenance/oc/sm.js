@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Sant Marin (oc)", 37, "http://oc.wikipedia.org/wiki/Sant_Marin"], ["Sant Marin (vila) (oc)", 10, "http://oc.wikipedia.org/wiki/Sant_Marin_%28vila%29"]], "data": []};

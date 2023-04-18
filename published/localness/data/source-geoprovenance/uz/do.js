@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Dominika Respublikasi (uz)", 38, "http://uz.wikipedia.org/wiki/Dominika_Respublikasi"], ["Gaiti (orol) (uz)", 6, "http://uz.wikipedia.org/wiki/Gaiti_%28orol%29"]], "data": []};

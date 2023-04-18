@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Namibia (la)", 41, "http://la.wikipedia.org/wiki/Namibia"], ["Windhoek (la)", 13, "http://la.wikipedia.org/wiki/Windhoek"], ["Universitas Namibiae (la)", 3, "http://la.wikipedia.org/wiki/Universitas_Namibiae"]], "data": []};

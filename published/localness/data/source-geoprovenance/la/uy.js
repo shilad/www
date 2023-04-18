@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Uraquaria (la)", 81, "http://la.wikipedia.org/wiki/Uraquaria"], ["Urbs Montis Videi (la)", 22, "http://la.wikipedia.org/wiki/Urbs_Montis_Videi"], ["Certamen Mundanum Pedilusorium (1930) (la)", 2, "http://la.wikipedia.org/wiki/Certamen_Mundanum_Pedilusorium_%281930%29"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["fws.gov", 7], ["other", 34]], "us": [["fws.gov", 7], ["other", 33]]}, "articles": [["Insula Navassa (ro)", 34, "http://ro.wikipedia.org/wiki/Insula_Navassa"], ["Insula Baker (ro)", 24, "http://ro.wikipedia.org/wiki/Insula_Baker"]], "data": [["us", 41], ["au", 6], ["ca", 2]]};

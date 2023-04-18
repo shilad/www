@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["San Marino (simple)", 105, "http://simple.wikipedia.org/wiki/San_Marino"], ["San Marino City (simple)", 29, "http://simple.wikipedia.org/wiki/San_Marino_City"]], "data": [["sm", 2], ["ch", 1], ["us", 1], ["it", 1]]};

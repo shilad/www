@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["unesco.org", 8], ["sverigesradio.se", 7], ["swedenabroad.com", 5], ["other", 36]], "se": [["sverigesradio.se", 7], ["swedenabroad.com", 5], ["other", 22]]}, "articles": [], "data": [["se", 32], ["us", 17], ["fr", 12], ["rs", 8], ["es", 1], ["de", 1], ["cf", 1], ["al", 1], ["va", 1], ["il", 1], ["fi", 1], ["at", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Grand Lisboa (et)", 9, "http://et.wikipedia.org/wiki/Grand_Lisboa"], ["Macau poolsaar (et)", 8, "http://et.wikipedia.org/wiki/Macau_poolsaar"]], "data": [["mo", 2], ["ch", 1], ["gp", 1], ["ca", 1], ["de", 1], ["us", 1], ["gb", 1]]};

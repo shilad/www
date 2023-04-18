@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": []}, "articles": [["Hascemisc Cyner\u012bce \u00fe\u00e6s Iordanes (ang)", 115, "http://ang.wikipedia.org/wiki/Hascemisc_Cyner%C4%ABce_%C3%BE%C3%A6s_Iordanes"]], "data": []};

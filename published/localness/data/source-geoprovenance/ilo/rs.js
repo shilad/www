@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Serbia (ilo)", 55, "http://ilo.wikipedia.org/wiki/Serbia"], ["Pagarian iti Serbia (ilo)", 11, "http://ilo.wikipedia.org/wiki/Pagarian_iti_Serbia"]], "data": [["rs", 1]]};

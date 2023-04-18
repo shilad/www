@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Slowakai (bar)", 144, "http://bar.wikipedia.org/wiki/Slowakai"], ["Pressburg (bar)", 105, "http://bar.wikipedia.org/wiki/Pressburg"], ["Erzbistum Bratislava (bar)", 2, "http://bar.wikipedia.org/wiki/Erzbistum_Bratislava"], ["Kittsee (bar)", 1, "http://bar.wikipedia.org/wiki/Kittsee"]], "data": []};

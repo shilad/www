@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kannede (nds-nl)", 81, "http://nds-nl.wikipedia.org/wiki/Kannede"], ["York University (nds-nl)", 7, "http://nds-nl.wikipedia.org/wiki/York_University"], ["Magdalena-eilaanden (nds-nl)", 1, "http://nds-nl.wikipedia.org/wiki/Magdalena-eilaanden"]], "data": []};

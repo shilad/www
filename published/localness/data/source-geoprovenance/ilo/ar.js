@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Arhentina (ilo)", 51, "http://ilo.wikipedia.org/wiki/Arhentina"], ["Andes (ilo)", 27, "http://ilo.wikipedia.org/wiki/Andes"], ["Buenos Aires (ilo)", 25, "http://ilo.wikipedia.org/wiki/Buenos_Aires"], ["Aconcagua (ilo)", 4, "http://ilo.wikipedia.org/wiki/Aconcagua"]], "data": [["us", 11], ["ar", 10], ["ca", 3]]};

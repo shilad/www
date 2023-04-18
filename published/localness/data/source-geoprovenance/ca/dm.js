@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Dominica (ca)", 61, "http://ca.wikipedia.org/wiki/Dominica"], ["Roseau (ca)", 8, "http://ca.wikipedia.org/wiki/Roseau"], ["Parc Nacional del Morne Trois Pitons (ca)", 4, "http://ca.wikipedia.org/wiki/Parc_Nacional_del_Morne_Trois_Pitons"]], "data": [["fr", 2], ["jp", 1], ["us", 1]]};

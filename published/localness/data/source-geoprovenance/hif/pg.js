@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Papua New Guinea (hif)", 42, "http://hif.wikipedia.org/wiki/Papua_New_Guinea"], ["Port Moresby (hif)", 13, "http://hif.wikipedia.org/wiki/Port_Moresby"], ["Lae (hif)", 7, "http://hif.wikipedia.org/wiki/Lae"]], "data": []};

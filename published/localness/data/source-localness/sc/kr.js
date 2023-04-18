@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "it": []}, "articles": [["Corea de su Sud (sc)", 39, "http://sc.wikipedia.org/wiki/Corea_de_su_Sud"]], "data": [["it", 0.8064516129032258], ["all", 0.0]]};

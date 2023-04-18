@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Antigua y Barbuda (ast)", 54, "http://ast.wikipedia.org/wiki/Antigua_y_Barbuda"], ["Saint John's (ast)", 8, "http://ast.wikipedia.org/wiki/Saint_John%27s"], ["Parroquia de Saint George (Antigua y Barbuda) (ast)", 2, "http://ast.wikipedia.org/wiki/Parroquia_de_Saint_George_%28Antigua_y_Barbuda%29"]], "data": []};

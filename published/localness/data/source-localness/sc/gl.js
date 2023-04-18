@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "it": []}, "articles": [["Groenl\u00e0ndia (sc)", 3, "http://sc.wikipedia.org/wiki/Groenl%C3%A0ndia"]], "data": [["it", 0.8064516129032258], ["all", 0.0]]};

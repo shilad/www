@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Mal\u00e9 (fi)", 56, "http://fi.wikipedia.org/wiki/Mal%C3%A9"], ["Mal\u00e9n kansainv\u00e4linen lentoasema (fi)", 8, "http://fi.wikipedia.org/wiki/Mal%C3%A9n_kansainv%C3%A4linen_lentoasema"]], "data": [["us", 12], ["gb", 4], ["fi", 4], ["mv", 2], ["ch", 1], ["in", 1]]};

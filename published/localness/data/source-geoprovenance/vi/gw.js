@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Guin\u00e9-Bissau (vi)", 133, "http://vi.wikipedia.org/wiki/Guin%C3%A9-Bissau"], ["Bissau (vi)", 23, "http://vi.wikipedia.org/wiki/Bissau"], ["S\u00e2n bay qu\u1ed1c t\u1ebf Osvaldo Vieira (vi)", 5, "http://vi.wikipedia.org/wiki/S%C3%A2n_bay_qu%E1%BB%91c_t%E1%BA%BF_Osvaldo_Vieira"]], "data": [["us", 1]]};

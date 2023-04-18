@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Saint-Martin (fi)", 148, "http://fi.wikipedia.org/wiki/Saint-Martin"], ["Saint-Martin (Ranska) (fi)", 15, "http://fi.wikipedia.org/wiki/Saint-Martin_%28Ranska%29"]], "data": []};

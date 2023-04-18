@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Costa Rica (ast)", 63, "http://ast.wikipedia.org/wiki/Costa_Rica"], ["Universid\u00e1 pa la Paz (ast)", 3, "http://ast.wikipedia.org/wiki/Universid%C3%A1_pa_la_Paz"], ["Pandorial (Costa Rica) (ast)", 1, "http://ast.wikipedia.org/wiki/Pandorial_%28Costa_Rica%29"]], "data": []};

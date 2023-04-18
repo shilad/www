@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Suriname (et)", 81, "http://et.wikipedia.org/wiki/Suriname"], ["Paramaribo (et)", 20, "http://et.wikipedia.org/wiki/Paramaribo"]], "data": [["us", 2], ["ee", 1], ["tt", 1], ["nl", 1]]};

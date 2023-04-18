@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Tet\u00e3voreku\u00e9ra \u00d1embyatypyre Mikyon\u00e9siagua (gn)", 4, "http://gn.wikipedia.org/wiki/Tet%C3%A3voreku%C3%A9ra_%C3%91embyatypyre_Mikyon%C3%A9siagua"]], "data": []};

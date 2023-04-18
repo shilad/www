@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Polynesia Ffrengig (cy)", 16, "http://cy.wikipedia.org/wiki/Polynesia_Ffrengig"], ["Tahiti (cy)", 13, "http://cy.wikipedia.org/wiki/Tahiti"], ["Moorea (cy)", 9, "http://cy.wikipedia.org/wiki/Moorea"], ["Papeete (cy)", 6, "http://cy.wikipedia.org/wiki/Papeete"]], "data": []};

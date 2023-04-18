@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["\u1796\u17d2\u179a\u17c2\u1780\u1787\u17b8\u1780\u1794\u17c9\u17b6\u178e\u17b6\u1798\u17c9\u17b6 (km)", 16, "http://km.wikipedia.org/wiki/%E1%9E%96%E1%9F%92%E1%9E%9A%E1%9F%82%E1%9E%80%E1%9E%87%E1%9E%B8%E1%9E%80%E1%9E%94%E1%9F%89%E1%9E%B6%E1%9E%8E%E1%9E%B6%E1%9E%98%E1%9F%89%E1%9E%B6"]], "data": []};

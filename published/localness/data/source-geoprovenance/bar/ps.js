@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Israel (bar)", 81, "http://bar.wikipedia.org/wiki/Israel"], ["Jerusalem (bar)", 36, "http://bar.wikipedia.org/wiki/Jerusalem"], ["Pal\u00e4stinensische Autonomiegebiete (bar)", 31, "http://bar.wikipedia.org/wiki/Pal%C3%A4stinensische_Autonomiegebiete"]], "data": [["de", 7], ["il", 2], ["us", 2]]};

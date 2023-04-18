@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Saint Pierre and Miquelon (simple)", 47, "http://simple.wikipedia.org/wiki/Saint_Pierre_and_Miquelon"], ["Miquelon-Langlade (simple)", 9, "http://simple.wikipedia.org/wiki/Miquelon-Langlade"]], "data": [["fr", 3], ["us", 1]]};

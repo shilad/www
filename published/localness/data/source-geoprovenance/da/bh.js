@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Bahrain (da)", 224, "http://da.wikipedia.org/wiki/Bahrain"], ["Manama (da)", 21, "http://da.wikipedia.org/wiki/Manama"], ["Al-Fatih-moskeen (da)", 9, "http://da.wikipedia.org/wiki/Al-Fatih-moskeen"], ["Bahrain World Trade Center (da)", 4, "http://da.wikipedia.org/wiki/Bahrain_World_Trade_Center"]], "data": []};

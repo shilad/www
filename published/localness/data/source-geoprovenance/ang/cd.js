@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Folcr\u012bcelicu Cynew\u012bse \u00fe\u00e6s Congwes (ang)", 98, "http://ang.wikipedia.org/wiki/Folcr%C4%ABcelicu_Cynew%C4%ABse_%C3%BE%C3%A6s_Congwes"]], "data": []};

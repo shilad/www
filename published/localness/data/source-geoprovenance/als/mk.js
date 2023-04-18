@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Republik Mazedonien (als)", 85, "http://als.wikipedia.org/wiki/Republik_Mazedonien"], ["Balkanhalbinsel (als)", 82, "http://als.wikipedia.org/wiki/Balkanhalbinsel"], ["Macedonia (Provinz) (als)", 4, "http://als.wikipedia.org/wiki/Macedonia_%28Provinz%29"]], "data": []};

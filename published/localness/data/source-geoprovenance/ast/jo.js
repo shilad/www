@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Xordania (ast)", 51, "http://ast.wikipedia.org/wiki/Xordania"], ["Mar Muertu (ast)", 22, "http://ast.wikipedia.org/wiki/Mar_Muertu"]], "data": []};

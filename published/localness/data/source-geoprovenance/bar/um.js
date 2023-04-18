@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["fws.gov", 7], ["cia.gov", 7], ["other", 12]], "us": [["fws.gov", 7], ["cia.gov", 7], ["other", 10]]}, "articles": [["Navassa (bar)", 24, "http://bar.wikipedia.org/wiki/Navassa"], ["Bakerinsl (bar)", 22, "http://bar.wikipedia.org/wiki/Bakerinsl"]], "data": [["us", 26], ["au", 4], ["de", 1], ["fm", 1], ["gb", 1]]};

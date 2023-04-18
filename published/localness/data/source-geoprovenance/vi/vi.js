@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Charlotte Amalie, Qu\u1ea7n \u0111\u1ea3o Virgin thu\u1ed9c M\u1ef9 (vi)", 15, "http://vi.wikipedia.org/wiki/Charlotte_Amalie%2C_Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_Virgin_thu%E1%BB%99c_M%E1%BB%B9"]], "data": [["us", 9], ["vi", 2]]};

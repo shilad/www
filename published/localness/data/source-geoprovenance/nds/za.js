@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["S\u00fc\u00fcdafrika (nds)", 79, "http://nds.wikipedia.org/wiki/S%C3%BC%C3%BCdafrika"], ["Aurora (S\u00fc\u00fcdafrika) (nds)", 4, "http://nds.wikipedia.org/wiki/Aurora_%28S%C3%BC%C3%BCdafrika%29"], ["Tugela-Waterfall (nds)", 4, "http://nds.wikipedia.org/wiki/Tugela-Waterfall"]], "data": []};

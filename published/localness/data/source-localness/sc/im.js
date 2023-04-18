@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "it": []}, "articles": [["\u00ccsula de Man (sc)", 2, "http://sc.wikipedia.org/wiki/%C3%8Csula_de_Man"]], "data": [["it", 0.8064516129032258], ["all", 0.0]]};

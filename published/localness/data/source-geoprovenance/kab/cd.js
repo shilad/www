@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Tagduda Tamegdayt n Kungu (kab)", 2, "http://kab.wikipedia.org/wiki/Tagduda_Tamegdayt_n_Kungu"], ["Ankoro (kab)", 1, "http://kab.wikipedia.org/wiki/Ankoro"], ["Kincasa (kab)", 1, "http://kab.wikipedia.org/wiki/Kincasa"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Puerto Rico (oc)", 37, "http://oc.wikipedia.org/wiki/Puerto_Rico"], ["San Juan (Puerto Rico) (oc)", 9, "http://oc.wikipedia.org/wiki/San_Juan_%28Puerto_Rico%29"]], "data": []};

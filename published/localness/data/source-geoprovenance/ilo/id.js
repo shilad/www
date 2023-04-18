@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Gunglo ti Pagpagilian ti Abagatan a daya nga Asia (ilo)", 29, "http://ilo.wikipedia.org/wiki/Gunglo_ti_Pagpagilian_ti_Abagatan_a_daya_nga_Asia"], ["Jakarta (ilo)", 27, "http://ilo.wikipedia.org/wiki/Jakarta"]], "data": [["id", 6], ["gb", 1], ["us", 1], ["pe", 1]]};

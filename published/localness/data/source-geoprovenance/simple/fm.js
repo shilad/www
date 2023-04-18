@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Federated States of Micronesia (simple)", 55, "http://simple.wikipedia.org/wiki/Federated_States_of_Micronesia"], ["Pohnpei (simple)", 11, "http://simple.wikipedia.org/wiki/Pohnpei"], ["Palikir (simple)", 10, "http://simple.wikipedia.org/wiki/Palikir"]], "data": [["us", 2]]};

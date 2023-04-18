@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["google.com", 9], ["other", 14]]}, "articles": [["Kanada (ilo)", 156, "http://ilo.wikipedia.org/wiki/Kanada"], ["Ciudad ti Quebec (ilo)", 11, "http://ilo.wikipedia.org/wiki/Ciudad_ti_Quebec"], ["York University (ilo)", 4, "http://ilo.wikipedia.org/wiki/York_University"]], "data": [["us", 15], ["ca", 11], ["va", 1], ["ml", 1]]};

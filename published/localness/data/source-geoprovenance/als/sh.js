@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["St. Helena (Insel) (als)", 70, "http://als.wikipedia.org/wiki/St._Helena_%28Insel%29"], ["Ascension (als)", 12, "http://als.wikipedia.org/wiki/Ascension"]], "data": [["de", 3], ["sh", 3], ["us", 2], ["gb", 2], ["at", 1], ["se", 1]]};

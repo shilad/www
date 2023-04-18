@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Uruguay (bar)", 37, "http://bar.wikipedia.org/wiki/Uruguay"], ["Fua\u00dfboi-W\u00e4idmoastaschaft 1930 (bar)", 9, "http://bar.wikipedia.org/wiki/Fua%C3%9Fboi-W%C3%A4idmoastaschaft_1930"]], "data": [["us", 5], ["de", 4], ["uy", 4], ["at", 1]]};

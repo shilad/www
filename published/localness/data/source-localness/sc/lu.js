@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "it": []}, "articles": [["Lussemburgu (sc)", 46, "http://sc.wikipedia.org/wiki/Lussemburgu"], ["Lussemburgu (tzitade) (sc)", 8, "http://sc.wikipedia.org/wiki/Lussemburgu_%28tzitade%29"]], "data": [["it", 0.8064516129032258], ["all", 0.0]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Jersey Zoo (sv)", 7, "http://sv.wikipedia.org/wiki/Jersey_Zoo"], ["Haut de la Garenne (sv)", 4, "http://sv.wikipedia.org/wiki/Haut_de_la_Garenne"]], "data": []};

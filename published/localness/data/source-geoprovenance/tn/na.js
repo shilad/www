@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Namibia (tn)", 44, "http://tn.wikipedia.org/wiki/Namibia"], ["Setlhaketlhake sa Impalila (tn)", 2, "http://tn.wikipedia.org/wiki/Setlhaketlhake_sa_Impalila"], ["Lefelo la Ngoma, Namibia (tn)", 1, "http://tn.wikipedia.org/wiki/Lefelo_la_Ngoma%2C_Namibia"]], "data": [["na", 1]]};

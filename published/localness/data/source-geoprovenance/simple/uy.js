@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Uruguay (simple)", 130, "http://simple.wikipedia.org/wiki/Uruguay"], ["Montevideo (simple)", 30, "http://simple.wikipedia.org/wiki/Montevideo"], ["1930 FIFA World Cup (simple)", 19, "http://simple.wikipedia.org/wiki/1930_FIFA_World_Cup"]], "data": [["us", 9], ["uy", 5], ["ge", 1], ["it", 1]]};

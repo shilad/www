@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Aequatoria (la)", 62, "http://la.wikipedia.org/wiki/Aequatoria"], ["Linea aequatorialis (la)", 29, "http://la.wikipedia.org/wiki/Linea_aequatorialis"], ["Quitum (la)", 10, "http://la.wikipedia.org/wiki/Quitum"]], "data": []};

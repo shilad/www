@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Mons Leoninus (la)", 24, "http://la.wikipedia.org/wiki/Mons_Leoninus"], ["Urbs Libera (Mons Leoninus) (la)", 15, "http://la.wikipedia.org/wiki/Urbs_Libera_%28Mons_Leoninus%29"], ["Universitas Montis Leonini (la)", 5, "http://la.wikipedia.org/wiki/Universitas_Montis_Leonini"]], "data": []};

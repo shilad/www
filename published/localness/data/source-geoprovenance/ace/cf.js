@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Afrika (ace)", 230, "http://ace.wikipedia.org/wiki/Afrika"], ["Republik Afrika Teungoh (ace)", 55, "http://ace.wikipedia.org/wiki/Republik_Afrika_Teungoh"]], "data": []};

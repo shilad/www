@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Azie (nds-nl)", 92, "http://nds-nl.wikipedia.org/wiki/Azie"], ["Volksrippebliek China (nds-nl)", 72, "http://nds-nl.wikipedia.org/wiki/Volksrippebliek_China"], ["Sinese muur (nds-nl)", 26, "http://nds-nl.wikipedia.org/wiki/Sinese_muur"]], "data": []};

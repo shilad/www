@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Mons Caroli (la)", 16, "http://la.wikipedia.org/wiki/Mons_Caroli"], ["Trophaea Augusti (la)", 5, "http://la.wikipedia.org/wiki/Trophaea_Augusti"], ["Tropaeum Augusti (la)", 3, "http://la.wikipedia.org/wiki/Tropaeum_Augusti"], ["Condamina (la)", 1, "http://la.wikipedia.org/wiki/Condamina"]], "data": []};

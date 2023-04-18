@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["IAAF (et)", 23, "http://et.wikipedia.org/wiki/IAAF"], ["Monaco Grand Prix (et)", 13, "http://et.wikipedia.org/wiki/Monaco_Grand_Prix"], ["2009. aasta Monaco Grand Prix (et)", 6, "http://et.wikipedia.org/wiki/2009._aasta_Monaco_Grand_Prix"]], "data": []};

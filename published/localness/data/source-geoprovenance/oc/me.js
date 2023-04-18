@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Montenegro (oc)", 50, "http://oc.wikipedia.org/wiki/Montenegro"], ["Republica Socialista Federala de Iogoslavia (oc)", 31, "http://oc.wikipedia.org/wiki/Republica_Socialista_Federala_de_Iogoslavia"], ["Podgorica (oc)", 13, "http://oc.wikipedia.org/wiki/Podgorica"]], "data": []};

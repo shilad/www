@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Corea del Sur (ast)", 58, "http://ast.wikipedia.org/wiki/Corea_del_Sur"], ["Se\u00fal (ast)", 25, "http://ast.wikipedia.org/wiki/Se%C3%BAl"], ["Ganghwa (ast)", 2, "http://ast.wikipedia.org/wiki/Ganghwa"]], "data": []};

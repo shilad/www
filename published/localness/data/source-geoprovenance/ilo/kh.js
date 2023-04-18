@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Cambodia (ilo)", 40, "http://ilo.wikipedia.org/wiki/Cambodia"], ["Abagatan a daya nga Asia (ilo)", 34, "http://ilo.wikipedia.org/wiki/Abagatan_a_daya_nga_Asia"], ["Angkor Wat (ilo)", 9, "http://ilo.wikipedia.org/wiki/Angkor_Wat"]], "data": [["us", 5], ["gr", 1], ["gb", 1]]};

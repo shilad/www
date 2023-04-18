@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Salomonen (als)", 65, "http://als.wikipedia.org/wiki/Salomonen"], ["Salomon-Inseln (als)", 9, "http://als.wikipedia.org/wiki/Salomon-Inseln"]], "data": [["us", 2], ["de", 1]]};

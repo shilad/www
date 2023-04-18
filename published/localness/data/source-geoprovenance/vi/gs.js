@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Nam Georgia v\u00e0 Qu\u1ea7n \u0111\u1ea3o Nam Sandwich (vi)", 67, "http://vi.wikipedia.org/wiki/Nam_Georgia_v%C3%A0_Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_Nam_Sandwich"], ["Iris (vi)", 23, "http://vi.wikipedia.org/wiki/Iris"], ["Grytviken (vi)", 7, "http://vi.wikipedia.org/wiki/Grytviken"]], "data": [["us", 1]]};

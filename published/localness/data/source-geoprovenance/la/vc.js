@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Sanctus Vincentius et Granatinae (la)", 24, "http://la.wikipedia.org/wiki/Sanctus_Vincentius_et_Granatinae"], ["Bequia (la)", 2, "http://la.wikipedia.org/wiki/Bequia"]], "data": []};

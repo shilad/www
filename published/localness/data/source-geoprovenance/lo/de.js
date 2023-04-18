@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec0\u0ea2\u0e8d\u0ea5\u0eb0\u0ea1\u0eb1\u0e99 (lo)", 83, "http://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BB%80%E0%BA%A2%E0%BA%8D%E0%BA%A5%E0%BA%B0%E0%BA%A1%E0%BA%B1%E0%BA%99"], ["Uetersen (lo)", 7, "http://lo.wikipedia.org/wiki/Uetersen"]], "data": [["de", 1]]};

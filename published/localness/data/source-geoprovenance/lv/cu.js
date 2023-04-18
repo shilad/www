@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kuba (lv)", 207, "http://lv.wikipedia.org/wiki/Kuba"], ["Havana (lv)", 22, "http://lv.wikipedia.org/wiki/Havana"], ["Liel\u0101s Anti\u013cu salas (lv)", 20, "http://lv.wikipedia.org/wiki/Liel%C4%81s_Anti%C4%BCu_salas"], ["Santjago de Kuba (lv)", 5, "http://lv.wikipedia.org/wiki/Santjago_de_Kuba"]], "data": [["es", 1]]};

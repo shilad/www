@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Bangladesch (nds)", 30, "http://nds.wikipedia.org/wiki/Bangladesch"], ["Jatiya Sangsad Bhaban (nds)", 1, "http://nds.wikipedia.org/wiki/Jatiya_Sangsad_Bhaban"]], "data": []};

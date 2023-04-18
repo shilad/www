@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["S\u00fcdgeorgien und die S\u00fcdlichen Sandwichinseln (als)", 37, "http://als.wikipedia.org/wiki/S%C3%BCdgeorgien_und_die_S%C3%BCdlichen_Sandwichinseln"]], "data": []};

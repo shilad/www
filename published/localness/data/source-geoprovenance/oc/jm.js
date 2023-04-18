@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Jamaica (oc)", 38, "http://oc.wikipedia.org/wiki/Jamaica"], ["Kingston (Jamaica) (oc)", 11, "http://oc.wikipedia.org/wiki/Kingston_%28Jamaica%29"]], "data": []};

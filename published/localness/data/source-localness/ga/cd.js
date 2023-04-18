@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "gb": []}, "articles": [["Poblacht Dhaonlathach an Chong\u00f3 (ga)", 38, "http://ga.wikipedia.org/wiki/Poblacht_Dhaonlathach_an_Chong%C3%B3"], ["Kinshasa (ga)", 22, "http://ga.wikipedia.org/wiki/Kinshasa"], ["Saorst\u00e1t Congo (ga)", 8, "http://ga.wikipedia.org/wiki/Saorst%C3%A1t_Congo"]], "data": [["gb", 1.0], ["all", 0.0]]};

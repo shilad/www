@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Salvatoria (la)", 40, "http://la.wikipedia.org/wiki/Salvatoria"], ["Urbs Sancti Salvatoris (la)", 9, "http://la.wikipedia.org/wiki/Urbs_Sancti_Salvatoris"]], "data": []};

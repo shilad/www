@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Saint Pierre \u0219i Miquelon (ro)", 89, "http://ro.wikipedia.org/wiki/Saint_Pierre_%C8%99i_Miquelon"], ["Saint-Pierre, Saint Pierre \u0219i Miquelon (ro)", 11, "http://ro.wikipedia.org/wiki/Saint-Pierre%2C_Saint_Pierre_%C8%99i_Miquelon"]], "data": []};

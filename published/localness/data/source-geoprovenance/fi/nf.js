@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Norfolkinsaari (fi)", 55, "http://fi.wikipedia.org/wiki/Norfolkinsaari"], ["Kingston (Norfolkinsaari) (fi)", 6, "http://fi.wikipedia.org/wiki/Kingston_%28Norfolkinsaari%29"]], "data": [["nf", 1]]};

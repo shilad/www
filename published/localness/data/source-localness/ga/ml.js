@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "gb": []}, "articles": [["Mail\u00ed (ga)", 31, "http://ga.wikipedia.org/wiki/Mail%C3%AD"], ["An N\u00edgir (abhainn) (ga)", 7, "http://ga.wikipedia.org/wiki/An_N%C3%ADgir_%28abhainn%29"], ["Margadh na Feirme (ga)", 1, "http://ga.wikipedia.org/wiki/Margadh_na_Feirme"]], "data": [["gb", 1.0], ["all", 0.0]]};

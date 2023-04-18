@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Mexico (laand) (nds-nl)", 52, "http://nds-nl.wikipedia.org/wiki/Mexico_%28laand%29"], ["Chichen Itza (nds-nl)", 20, "http://nds-nl.wikipedia.org/wiki/Chichen_Itza"]], "data": [["va", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Islandia (ast)", 91, "http://ast.wikipedia.org/wiki/Islandia"], ["Eyjafjallaj\u00f6kull (ast)", 4, "http://ast.wikipedia.org/wiki/Eyjafjallaj%C3%B6kull"]], "data": []};

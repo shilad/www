@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Tiroedd Deheuol ac Antarctig Ffrainc (cy)", 9, "http://cy.wikipedia.org/wiki/Tiroedd_Deheuol_ac_Antarctig_Ffrainc"], ["Ynysoedd Kerguelen (cy)", 4, "http://cy.wikipedia.org/wiki/Ynysoedd_Kerguelen"]], "data": []};

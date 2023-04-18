@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Niger (als)", 130, "http://als.wikipedia.org/wiki/Niger"], ["Liste der Berge und Gebirge des Erdmondes (als)", 9, "http://als.wikipedia.org/wiki/Liste_der_Berge_und_Gebirge_des_Erdmondes"]], "data": []};

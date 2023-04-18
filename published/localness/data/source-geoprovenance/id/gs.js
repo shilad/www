@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Georgia Selatan dan Kepulauan Sandwich Selatan (id)", 79, "http://id.wikipedia.org/wiki/Georgia_Selatan_dan_Kepulauan_Sandwich_Selatan"], ["Grytviken (id)", 17, "http://id.wikipedia.org/wiki/Grytviken"]], "data": [["gs", 1], ["am", 1], ["gb", 1], ["us", 1], ["at", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Luxnbuag (bar)", 98, "http://bar.wikipedia.org/wiki/Luxnbuag"], ["Erzbistum Luxmburg (bar)", 2, "http://bar.wikipedia.org/wiki/Erzbistum_Luxmburg"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Moroni, Comoros (sco)", 27, "http://sco.wikipedia.org/wiki/Moroni%2C_Comoros"], ["Grande Comore (sco)", 9, "http://sco.wikipedia.org/wiki/Grande_Comore"], ["Anjouan (sco)", 6, "http://sco.wikipedia.org/wiki/Anjouan"]], "data": [["us", 4]]};

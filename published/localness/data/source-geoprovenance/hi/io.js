@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["zianet.com", 8], ["navy.mil", 5], ["other", 32]], "us": [["zianet.com", 8], ["navy.mil", 5], ["other", 19]]}, "articles": [], "data": [["us", 34], ["gb", 12], ["ch", 1], ["no", 1], ["jp", 1], ["ht", 1], ["im", 1], ["in", 1]]};

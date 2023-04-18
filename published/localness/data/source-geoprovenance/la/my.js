@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Malaesia (la)", 43, "http://la.wikipedia.org/wiki/Malaesia"], ["Kuala Lumpur (la)", 25, "http://la.wikipedia.org/wiki/Kuala_Lumpur"], ["Turres Petronas (la)", 6, "http://la.wikipedia.org/wiki/Turres_Petronas"]], "data": []};

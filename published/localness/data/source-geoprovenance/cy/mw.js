@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Malawi (cy)", 53, "http://cy.wikipedia.org/wiki/Malawi"], ["Zomba, Malawi (cy)", 8, "http://cy.wikipedia.org/wiki/Zomba%2C_Malawi"], ["Blantyre, Malawi (cy)", 7, "http://cy.wikipedia.org/wiki/Blantyre%2C_Malawi"], ["Lilongwe (cy)", 6, "http://cy.wikipedia.org/wiki/Lilongwe"]], "data": []};

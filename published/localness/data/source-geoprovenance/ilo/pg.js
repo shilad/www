@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Papua Baro a Guinea (ilo)", 34, "http://ilo.wikipedia.org/wiki/Papua_Baro_a_Guinea"], ["Baro a Guinea (ilo)", 1, "http://ilo.wikipedia.org/wiki/Baro_a_Guinea"]], "data": []};

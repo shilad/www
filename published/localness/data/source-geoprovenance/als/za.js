@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["S\u00fcdafrika (als)", 164, "http://als.wikipedia.org/wiki/S%C3%BCdafrika"], ["Kapstadt (als)", 35, "http://als.wikipedia.org/wiki/Kapstadt"], ["Tafelberg (als)", 2, "http://als.wikipedia.org/wiki/Tafelberg"]], "data": [["za", 3], ["us", 1]]};

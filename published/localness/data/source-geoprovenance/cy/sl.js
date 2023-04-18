@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Sierra Leone (cy)", 24, "http://cy.wikipedia.org/wiki/Sierra_Leone"], ["Freetown (cy)", 18, "http://cy.wikipedia.org/wiki/Freetown"]], "data": []};

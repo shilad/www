@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Yr Emiradau Arabaidd Unedig (cy)", 60, "http://cy.wikipedia.org/wiki/Yr_Emiradau_Arabaidd_Unedig"], ["Burj Khalifa (cy)", 12, "http://cy.wikipedia.org/wiki/Burj_Khalifa"], ["Abu Dhabi (cy)", 6, "http://cy.wikipedia.org/wiki/Abu_Dhabi"]], "data": []};

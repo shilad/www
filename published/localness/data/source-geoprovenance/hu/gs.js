@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["D\u00e9li-Georgia \u00e9s D\u00e9li-Sandwich-szigetek (hu)", 123, "http://hu.wikipedia.org/wiki/D%C3%A9li-Georgia_%C3%A9s_D%C3%A9li-Sandwich-szigetek"], ["Grytviken (hu)", 13, "http://hu.wikipedia.org/wiki/Grytviken"]], "data": [["bi", 1], ["gb", 1]]};

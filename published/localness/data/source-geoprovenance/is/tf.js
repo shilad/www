@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Fr\u00f6nsku su\u00f0l\u00e6gu landsv\u00e6\u00f0in (is)", 8, "http://is.wikipedia.org/wiki/Fr%C3%B6nsku_su%C3%B0l%C3%A6gu_landsv%C3%A6%C3%B0in"], ["Kergueleneyjar (is)", 8, "http://is.wikipedia.org/wiki/Kergueleneyjar"]], "data": []};

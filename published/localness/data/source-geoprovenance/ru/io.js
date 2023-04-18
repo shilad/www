@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["openstreetmap.org", 23], ["other", 17]], "gb": [["openstreetmap.org", 23], ["other", 1]]}, "articles": [], "data": [["us", 45], ["gb", 21], ["kg", 10], ["ru", 6], ["ca", 3], ["ne", 1], ["lb", 1], ["ua", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Illa Norfolk (oc)", 20, "http://oc.wikipedia.org/wiki/Illa_Norfolk"], ["UTC+11:30 (oc)", 1, "http://oc.wikipedia.org/wiki/UTC%2B11%3A30"]], "data": []};

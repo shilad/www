@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Fraanse Zudelike en Antarktiese Gebeden (nds-nl)", 8, "http://nds-nl.wikipedia.org/wiki/Fraanse_Zudelike_en_Antarktiese_Gebeden"], ["Falaises d'Entrecasteaux (nds-nl)", 2, "http://nds-nl.wikipedia.org/wiki/Falaises_d%27Entrecasteaux"]], "data": []};

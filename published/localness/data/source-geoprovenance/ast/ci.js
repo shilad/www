@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Costa de Marfil (ast)", 65, "http://ast.wikipedia.org/wiki/Costa_de_Marfil"], ["Dix-Huit Montagnes (ast)", 2, "http://ast.wikipedia.org/wiki/Dix-Huit_Montagnes"], ["Abidjan (ast)", 2, "http://ast.wikipedia.org/wiki/Abidjan"]], "data": []};

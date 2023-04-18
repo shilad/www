@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Sudania Australis (la)", 28, "http://la.wikipedia.org/wiki/Sudania_Australis"], ["Iuba (la)", 12, "http://la.wikipedia.org/wiki/Iuba"], ["Universitas Iuba (la)", 1, "http://la.wikipedia.org/wiki/Universitas_Iuba"]], "data": []};

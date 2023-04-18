@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Insula Curacensis (la)", 23, "http://la.wikipedia.org/wiki/Insula_Curacensis"], ["Antillae Nederlandenses (la)", 16, "http://la.wikipedia.org/wiki/Antillae_Nederlandenses"]], "data": []};

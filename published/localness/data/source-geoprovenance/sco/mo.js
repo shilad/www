@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Taipa (sco)", 7, "http://sco.wikipedia.org/wiki/Taipa"], ["Coloane (sco)", 4, "http://sco.wikipedia.org/wiki/Coloane"], ["Rua do Cunha (sco)", 2, "http://sco.wikipedia.org/wiki/Rua_do_Cunha"]], "data": [["us", 2]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Pulau Norfolk (id)", 53, "http://id.wikipedia.org/wiki/Pulau_Norfolk"], ["Kingston, Pulau Norfolk (id)", 27, "http://id.wikipedia.org/wiki/Kingston%2C_Pulau_Norfolk"], ["Burnt Pine (id)", 4, "http://id.wikipedia.org/wiki/Burnt_Pine"], ["UTC+11:30 (id)", 4, "http://id.wikipedia.org/wiki/UTC%2B11%3A30"]], "data": [["au", 1]]};

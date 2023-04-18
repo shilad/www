@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kiritimati (ro)", 39, "http://ro.wikipedia.org/wiki/Kiritimati"], ["Insula Banaba (ro)", 13, "http://ro.wikipedia.org/wiki/Insula_Banaba"]], "data": [["us", 6], ["au", 4], ["ro", 3], ["ch", 2], ["lb", 1], ["ki", 1]]};

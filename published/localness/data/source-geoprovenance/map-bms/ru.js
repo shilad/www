@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Rusia (map-bms)", 156, "http://map-bms.wikipedia.org/wiki/Rusia"], ["Paltoga (map-bms)", 9, "http://map-bms.wikipedia.org/wiki/Paltoga"]], "data": []};

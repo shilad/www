@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Banjuli nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r (hu)", 11, "http://hu.wikipedia.org/wiki/Banjuli_nemzetk%C3%B6zi_rep%C3%BCl%C5%91t%C3%A9r"]], "data": [["us", 6], ["gb", 3], ["nl", 1], ["ke", 1], ["ca", 1], ["hu", 1], ["gm", 1]]};

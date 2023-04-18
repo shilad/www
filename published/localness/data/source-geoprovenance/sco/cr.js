@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Costa Rica (sco)", 22, "http://sco.wikipedia.org/wiki/Costa_Rica"], ["San Jos\u00e9, Costa Rica (sco)", 12, "http://sco.wikipedia.org/wiki/San_Jos%C3%A9%2C_Costa_Rica"]], "data": [["us", 2]]};

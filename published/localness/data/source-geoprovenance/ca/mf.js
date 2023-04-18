@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Saint-Martin (Antilles Franceses) (ca)", 38, "http://ca.wikipedia.org/wiki/Saint-Martin_%28Antilles_Franceses%29"], ["Illa de Sant Mart\u00ed (ca)", 22, "http://ca.wikipedia.org/wiki/Illa_de_Sant_Mart%C3%AD"], ["Marigot (Saint-Martin) (ca)", 15, "http://ca.wikipedia.org/wiki/Marigot_%28Saint-Martin%29"]], "data": []};

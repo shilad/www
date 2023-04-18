@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["nationsencyclopedia.com", 5], ["other", 20]]}, "articles": [], "data": [["us", 18], ["nc", 5], ["au", 4], ["ua", 3], ["ru", 2], ["fr", 2], ["gt", 1], ["gr", 1], ["va", 1], ["ca", 1], ["de", 1], ["it", 1], ["mh", 1], ["lr", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Shamolli orollar (uz)", 6, "http://uz.wikipedia.org/wiki/Shamolli_orollar"], ["Shamolsiz orollar (uz)", 5, "http://uz.wikipedia.org/wiki/Shamolsiz_orollar"]], "data": []};

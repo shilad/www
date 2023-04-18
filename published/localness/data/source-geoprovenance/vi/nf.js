@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["\u0110\u1ea3o Norfolk (vi)", 56, "http://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_Norfolk"], ["Kingston, \u0110\u1ea3o Norfolk (vi)", 11, "http://vi.wikipedia.org/wiki/Kingston%2C_%C4%90%E1%BA%A3o_Norfolk"], ["UTC+11:30 (vi)", 5, "http://vi.wikipedia.org/wiki/UTC%2B11%3A30"]], "data": [["sb", 1], ["nf", 1]]};

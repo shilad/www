@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Sri Lanka (hif)", 49, "http://hif.wikipedia.org/wiki/Sri_Lanka"], ["Sri Jayawardenapura-Kotte (hif)", 16, "http://hif.wikipedia.org/wiki/Sri_Jayawardenapura-Kotte"]], "data": []};

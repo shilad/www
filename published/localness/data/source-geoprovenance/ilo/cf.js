@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Aprika (ilo)", 50, "http://ilo.wikipedia.org/wiki/Aprika"], ["Republika ti Tengnga nga Aprika (ilo)", 37, "http://ilo.wikipedia.org/wiki/Republika_ti_Tengnga_nga_Aprika"]], "data": []};

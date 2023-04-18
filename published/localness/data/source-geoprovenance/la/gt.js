@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Guatimalia (la)", 33, "http://la.wikipedia.org/wiki/Guatimalia"], ["Res Publica Foederalis Mediae Americae (la)", 9, "http://la.wikipedia.org/wiki/Res_Publica_Foederalis_Mediae_Americae"], ["Urbs Guatimalensis (la)", 3, "http://la.wikipedia.org/wiki/Urbs_Guatimalensis"]], "data": []};

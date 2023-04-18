@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Gweriniaeth y Congo (cy)", 32, "http://cy.wikipedia.org/wiki/Gweriniaeth_y_Congo"], ["Brazzaville (cy)", 15, "http://cy.wikipedia.org/wiki/Brazzaville"]], "data": []};

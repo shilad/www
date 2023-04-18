@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["American Samoa (simple)", 72, "http://simple.wikipedia.org/wiki/American_Samoa"], ["Pago Pago, American Samoa (simple)", 18, "http://simple.wikipedia.org/wiki/Pago_Pago%2C_American_Samoa"], ["Fagatogo, American Samoa (simple)", 13, "http://simple.wikipedia.org/wiki/Fagatogo%2C_American_Samoa"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Andorra (vi)", 184, "http://vi.wikipedia.org/wiki/Andorra"], ["Andorra la Vella (vi)", 34, "http://vi.wikipedia.org/wiki/Andorra_la_Vella"], ["Thung l\u0169ng Madriu-Claror-Perafita (vi)", 5, "http://vi.wikipedia.org/wiki/Thung_l%C5%A9ng_Madriu-Claror-Perafita"]], "data": [["fr", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["\u06a9\u0627\u0645\u06cc\u0631\u0648\u0648\u0646 (ckb)", 52, "http://ckb.wikipedia.org/wiki/%DA%A9%D8%A7%D9%85%DB%8C%D8%B1%D9%88%D9%88%D9%86"], ["\u06cc\u0627\u0626\u0648\u0646\u062f\u06ce (ckb)", 14, "http://ckb.wikipedia.org/wiki/%DB%8C%D8%A7%D8%A6%D9%88%D9%86%D8%AF%DB%8E"]], "data": [["us", 4]]};

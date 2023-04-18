@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Panam\u00e1 (ast)", 64, "http://ast.wikipedia.org/wiki/Panam%C3%A1"], ["Canal de Panam\u00e1 (ast)", 23, "http://ast.wikipedia.org/wiki/Canal_de_Panam%C3%A1"], ["Ponte de les Am\u00e9riques (ast)", 2, "http://ast.wikipedia.org/wiki/Ponte_de_les_Am%C3%A9riques"]], "data": []};

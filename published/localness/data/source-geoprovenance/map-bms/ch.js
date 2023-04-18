@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Eropah (map-bms)", 146, "http://map-bms.wikipedia.org/wiki/Eropah"], ["IOC (map-bms)", 22, "http://map-bms.wikipedia.org/wiki/IOC"]], "data": []};

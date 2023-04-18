@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kilimandscharo (bar)", 10, "http://bar.wikipedia.org/wiki/Kilimandscharo"], ["Tanganjikasee (bar)", 9, "http://bar.wikipedia.org/wiki/Tanganjikasee"]], "data": [["de", 3], ["fr", 2], ["ch", 1], ["us", 1]]};

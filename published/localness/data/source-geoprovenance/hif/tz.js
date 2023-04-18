@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Tanzania (hif)", 54, "http://hif.wikipedia.org/wiki/Tanzania"], ["Mount Kilimanjaro (hif)", 15, "http://hif.wikipedia.org/wiki/Mount_Kilimanjaro"], ["Lake Tanganyika (hif)", 14, "http://hif.wikipedia.org/wiki/Lake_Tanganyika"], ["Dodoma (hif)", 12, "http://hif.wikipedia.org/wiki/Dodoma"]], "data": []};

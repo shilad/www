@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Falkland Islands (simple)", 103, "http://simple.wikipedia.org/wiki/Falkland_Islands"], ["Falklands War (simple)", 64, "http://simple.wikipedia.org/wiki/Falklands_War"], ["Stanley, Falkland Islands (simple)", 8, "http://simple.wikipedia.org/wiki/Stanley%2C_Falkland_Islands"]], "data": [["fk", 2], ["us", 2], ["ar", 1]]};

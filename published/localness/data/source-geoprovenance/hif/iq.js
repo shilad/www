@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Iraq (hif)", 74, "http://hif.wikipedia.org/wiki/Iraq"], ["Mesopotamia (hif)", 32, "http://hif.wikipedia.org/wiki/Mesopotamia"], ["Baghdad (hif)", 26, "http://hif.wikipedia.org/wiki/Baghdad"], ["Babel ke tower (hif)", 13, "http://hif.wikipedia.org/wiki/Babel_ke_tower"]], "data": []};

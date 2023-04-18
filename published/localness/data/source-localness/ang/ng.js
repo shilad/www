@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": []}, "articles": [["Nigeria (ang)", 99, "http://ang.wikipedia.org/wiki/Nigeria"], ["Ceadmere (ang)", 13, "http://ang.wikipedia.org/wiki/Ceadmere"], ["Offa, Nigeria (ang)", 5, "http://ang.wikipedia.org/wiki/Offa%2C_Nigeria"], ["Kwara R\u012bce (ang)", 1, "http://ang.wikipedia.org/wiki/Kwara_R%C4%ABce"]], "data": []};

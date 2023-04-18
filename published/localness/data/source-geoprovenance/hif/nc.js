@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["New Caledonia (hif)", 21, "http://hif.wikipedia.org/wiki/New_Caledonia"], ["Noumea (hif)", 13, "http://hif.wikipedia.org/wiki/Noumea"]], "data": []};

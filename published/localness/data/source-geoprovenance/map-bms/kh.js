@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Asia Tenggara (map-bms)", 266, "http://map-bms.wikipedia.org/wiki/Asia_Tenggara"], ["Kamboja (map-bms)", 100, "http://map-bms.wikipedia.org/wiki/Kamboja"]], "data": []};

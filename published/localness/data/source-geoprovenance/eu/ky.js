@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["George Town (Kaiman uharteak) (eu)", 8, "http://eu.wikipedia.org/wiki/George_Town_%28Kaiman_uharteak%29"]], "data": [["ky", 2], ["pl", 1], ["us", 1]]};

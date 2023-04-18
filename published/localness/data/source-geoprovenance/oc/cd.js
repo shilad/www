@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Republica Democratica de C\u00f2ngo (oc)", 55, "http://oc.wikipedia.org/wiki/Republica_Democratica_de_C%C3%B2ngo"], ["Kinshasa (oc)", 27, "http://oc.wikipedia.org/wiki/Kinshasa"], ["Likasi (oc)", 3, "http://oc.wikipedia.org/wiki/Likasi"], ["Nyiragongo (oc)", 1, "http://oc.wikipedia.org/wiki/Nyiragongo"]], "data": []};

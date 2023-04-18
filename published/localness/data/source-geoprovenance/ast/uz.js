@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Uzbekist\u00e1n (ast)", 67, "http://ast.wikipedia.org/wiki/Uzbekist%C3%A1n"], ["Aeropuertu Internacional de Bukhar\u00e1 (ast)", 1, "http://ast.wikipedia.org/wiki/Aeropuertu_Internacional_de_Bukhar%C3%A1"]], "data": []};

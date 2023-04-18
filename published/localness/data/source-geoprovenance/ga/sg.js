@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Singeap\u00f3r (ga)", 49, "http://ga.wikipedia.org/wiki/Singeap%C3%B3r"], ["Cluich\u00ed Oilimpeacha do Dhaoine \u00f3ga an tSamhraidh 2010 (ga)", 3, "http://ga.wikipedia.org/wiki/Cluich%C3%AD_Oilimpeacha_do_Dhaoine_%C3%B3ga_an_tSamhraidh_2010"]], "data": []};

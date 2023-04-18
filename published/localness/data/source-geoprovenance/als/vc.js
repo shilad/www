@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["St. Vincent und die Grenadinen (als)", 63, "http://als.wikipedia.org/wiki/St._Vincent_und_die_Grenadinen"]], "data": [["us", 2], ["de", 1], ["vc", 1]]};

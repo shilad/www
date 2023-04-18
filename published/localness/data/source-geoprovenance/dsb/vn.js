@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Vietnam (dsb)", 42, "http://dsb.wikipedia.org/wiki/Vietnam"], ["Ho Chi Minh m\u011bsto (dsb)", 21, "http://dsb.wikipedia.org/wiki/Ho_Chi_Minh_m%C4%9Bsto"], ["Dong Hoi (dsb)", 6, "http://dsb.wikipedia.org/wiki/Dong_Hoi"], ["Nha Trang (dsb)", 5, "http://dsb.wikipedia.org/wiki/Nha_Trang"]], "data": [["vn", 2]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Republika a Dominikano (ilo)", 41, "http://ilo.wikipedia.org/wiki/Republika_a_Dominikano"], ["Santo Domingo (ilo)", 15, "http://ilo.wikipedia.org/wiki/Santo_Domingo"]], "data": []};

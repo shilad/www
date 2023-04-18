@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Road Town (id)", 13, "http://id.wikipedia.org/wiki/Road_Town"], ["Bandar Udara Internasional Terrance B. Lettsome (id)", 8, "http://id.wikipedia.org/wiki/Bandar_Udara_Internasional_Terrance_B._Lettsome"]], "data": []};

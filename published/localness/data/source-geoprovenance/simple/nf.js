@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["HMS Sirius (1786) (simple)", 53, "http://simple.wikipedia.org/wiki/HMS_Sirius_%281786%29"], ["Norfolk Island (simple)", 42, "http://simple.wikipedia.org/wiki/Norfolk_Island"], ["UTC+11:30 (simple)", 6, "http://simple.wikipedia.org/wiki/UTC%2B11%3A30"]], "data": [["us", 3], ["au", 2], ["nf", 2], ["nl", 1]]};

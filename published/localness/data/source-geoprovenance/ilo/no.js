@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Norwega (ilo)", 93, "http://ilo.wikipedia.org/wiki/Norwega"], ["Svalbard (ilo)", 24, "http://ilo.wikipedia.org/wiki/Svalbard"], ["Longyearbyen (ilo)", 20, "http://ilo.wikipedia.org/wiki/Longyearbyen"], ["Fiordo iti Ulvik (ilo)", 1, "http://ilo.wikipedia.org/wiki/Fiordo_iti_Ulvik"]], "data": [["us", 6], ["no", 4]]};

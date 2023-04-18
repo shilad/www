@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Tansania (nds)", 72, "http://nds.wikipedia.org/wiki/Tansania"], ["Kilimandscharo (nds)", 10, "http://nds.wikipedia.org/wiki/Kilimandscharo"], ["Mwanza (nds)", 8, "http://nds.wikipedia.org/wiki/Mwanza"], ["Mwanza (Region) (nds)", 1, "http://nds.wikipedia.org/wiki/Mwanza_%28Region%29"]], "data": [["de", 2], ["mq", 1]]};

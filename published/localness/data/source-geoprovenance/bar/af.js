@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Afghanistan (bar)", 53, "http://bar.wikipedia.org/wiki/Afghanistan"]], "data": [["us", 10], ["de", 9], ["af", 2], ["fr", 1], ["ch", 1], ["ca", 1]]};

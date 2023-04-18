@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [["csu.edu.au", 13], ["oceandots.com", 10], ["other", 28]]}, "articles": [["\u6717\u683c\u62c9\u666e\u6a5f\u5834 (zh)", 1, "http://zh.wikipedia.org/wiki/%E6%9C%97%E6%A0%BC%E6%8B%89%E6%99%AE%E6%A9%9F%E5%A0%B4"]], "data": [["us", 30], ["au", 12], ["ca", 5], ["fr", 1], ["de", 1], ["mh", 1], ["il", 1], ["dz", 1], ["fj", 1], ["gi", 1]]};

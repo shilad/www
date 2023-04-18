@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Bahama (et)", 135, "http://et.wikipedia.org/wiki/Bahama"], ["Nassau (et)", 25, "http://et.wikipedia.org/wiki/Nassau"], ["San Salvadori saar (Bahama) (et)", 13, "http://et.wikipedia.org/wiki/San_Salvadori_saar_%28Bahama%29"]], "data": []};

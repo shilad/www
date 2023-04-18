@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Macrakadii Ceyn Jaaluut (so)", 9, "http://so.wikipedia.org/wiki/Macrakadii_Ceyn_Jaaluut"]], "data": [["us", 2], ["il", 2], ["va", 1], ["ht", 1]]};

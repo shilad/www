@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "bw": [["gov.bw", 21], ["mmegi.bw", 8], ["other", 9]]}, "articles": [["Concepci\u00f3n (tn)", 7, "http://tn.wikipedia.org/wiki/Concepci%C3%B3n"]], "data": [["bw", 0.2631578947368421], ["all", 0.0]]};

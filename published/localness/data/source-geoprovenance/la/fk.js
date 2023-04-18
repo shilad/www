@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Falklandia (la)", 37, "http://la.wikipedia.org/wiki/Falklandia"], ["Bellum Malvinense (la)", 13, "http://la.wikipedia.org/wiki/Bellum_Malvinense"]], "data": []};

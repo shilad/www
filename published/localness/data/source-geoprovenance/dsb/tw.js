@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Republika Chinskeje (dsb)", 46, "http://dsb.wikipedia.org/wiki/Republika_Chinskeje"], ["Taiwan (dsb)", 25, "http://dsb.wikipedia.org/wiki/Taiwan"]], "data": []};

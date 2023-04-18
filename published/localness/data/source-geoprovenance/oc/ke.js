@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kenya (oc)", 61, "http://oc.wikipedia.org/wiki/Kenya"], ["Nair\u00f2bi (oc)", 15, "http://oc.wikipedia.org/wiki/Nair%C3%B2bi"], ["Granda Val del Rift (oc)", 7, "http://oc.wikipedia.org/wiki/Granda_Val_del_Rift"], ["Lac Turkana (oc)", 3, "http://oc.wikipedia.org/wiki/Lac_Turkana"]], "data": []};

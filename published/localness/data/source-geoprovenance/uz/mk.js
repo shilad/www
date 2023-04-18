@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Makedoniya Respublikasi (uz)", 60, "http://uz.wikipedia.org/wiki/Makedoniya_Respublikasi"], ["Bolqon yarim oroli (uz)", 15, "http://uz.wikipedia.org/wiki/Bolqon_yarim_oroli"], ["Skopye (uz)", 14, "http://uz.wikipedia.org/wiki/Skopye"]], "data": []};

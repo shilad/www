@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Cirgistan (cy)", 55, "http://cy.wikipedia.org/wiki/Cirgistan"], ["Tien Shan (cy)", 15, "http://cy.wikipedia.org/wiki/Tien_Shan"], ["Bishkek (cy)", 12, "http://cy.wikipedia.org/wiki/Bishkek"], ["Jalal-Abad (cy)", 6, "http://cy.wikipedia.org/wiki/Jalal-Abad"]], "data": []};

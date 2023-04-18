@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Qatar (gl)", 61, "http://gl.wikipedia.org/wiki/Qatar"], ["Gran Premio de Motociclismo de Qatar (gl)", 4, "http://gl.wikipedia.org/wiki/Gran_Premio_de_Motociclismo_de_Qatar"], ["Circu\u00edto Internacional de Losail (gl)", 4, "http://gl.wikipedia.org/wiki/Circu%C3%ADto_Internacional_de_Losail"]], "data": [["qa", 1]]};

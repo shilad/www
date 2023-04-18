@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Andorrae (sco)", 32, "http://sco.wikipedia.org/wiki/Andorrae"], ["Andorra la Vella (sco)", 17, "http://sco.wikipedia.org/wiki/Andorra_la_Vella"]], "data": [["de", 1], ["us", 1]]};

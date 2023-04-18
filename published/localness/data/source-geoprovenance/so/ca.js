@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Kanada (so)", 72, "http://so.wikipedia.org/wiki/Kanada"], ["Toronto (so)", 25, "http://so.wikipedia.org/wiki/Toronto"], ["Ottawa (so)", 24, "http://so.wikipedia.org/wiki/Ottawa"], ["ICAO (so)", 9, "http://so.wikipedia.org/wiki/ICAO"], ["York University (so)", 8, "http://so.wikipedia.org/wiki/York_University"]], "data": []};

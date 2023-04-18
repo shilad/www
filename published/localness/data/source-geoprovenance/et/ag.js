@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Antigua ja Barbuda (et)", 88, "http://et.wikipedia.org/wiki/Antigua_ja_Barbuda"], ["Saint John's (et)", 18, "http://et.wikipedia.org/wiki/Saint_John%27s"], ["Antigua (et)", 17, "http://et.wikipedia.org/wiki/Antigua"], ["Barbuda (et)", 12, "http://et.wikipedia.org/wiki/Barbuda"]], "data": []};

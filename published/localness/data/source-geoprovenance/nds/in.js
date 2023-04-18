@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Indien (nds)", 132, "http://nds.wikipedia.org/wiki/Indien"], ["Mumbai (nds)", 25, "http://nds.wikipedia.org/wiki/Mumbai"], ["Kaschmir (nds)", 13, "http://nds.wikipedia.org/wiki/Kaschmir"], ["Delhi (nds)", 12, "http://nds.wikipedia.org/wiki/Delhi"]], "data": []};

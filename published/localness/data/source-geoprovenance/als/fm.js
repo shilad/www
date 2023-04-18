@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["F\u00f6derierte Staaten von Mikronesien (als)", 55, "http://als.wikipedia.org/wiki/F%C3%B6derierte_Staaten_von_Mikronesien"]], "data": [["de", 4], ["mv", 1], ["au", 1]]};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "it": []}, "articles": [["Costa de Av\u00f2riu (sc)", 35, "http://sc.wikipedia.org/wiki/Costa_de_Av%C3%B2riu"], ["Abidjan (sc)", 21, "http://sc.wikipedia.org/wiki/Abidjan"]], "data": [["it", 0.8064516129032258], ["all", 0.0]]};

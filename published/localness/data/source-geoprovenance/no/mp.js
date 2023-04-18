@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Tinian (no)", 13, "http://no.wikipedia.org/wiki/Tinian"], ["Saipan (no)", 12, "http://no.wikipedia.org/wiki/Saipan"], ["Slaget om Tinian (no)", 5, "http://no.wikipedia.org/wiki/Slaget_om_Tinian"]], "data": [["us", 8], ["no", 2], ["mp", 2], ["be", 1], ["bm", 1], ["ca", 1], ["de", 1], ["au", 1]]};

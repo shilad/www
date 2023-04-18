@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": []}, "articles": [["Lytel Sp\u0113onland (ang)", 29, "http://ang.wikipedia.org/wiki/Lytel_Sp%C4%93onland"], ["Estadio La Barranquita (ang)", 2, "http://ang.wikipedia.org/wiki/Estadio_La_Barranquita"]], "data": []};

@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {"all": [], "it": []}, "articles": [["S\u00e3o Tom\u00e9 e Pr\u00edncipe (sc)", 21, "http://sc.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_e_Pr%C3%ADncipe"]], "data": [["it", 0.8064516129032258], ["all", 0.0]]};

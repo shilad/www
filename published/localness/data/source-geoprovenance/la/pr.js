@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Portus Dives (la)", 37, "http://la.wikipedia.org/wiki/Portus_Dives"], ["Regio insulana (la)", 3, "http://la.wikipedia.org/wiki/Regio_insulana"]], "data": []};

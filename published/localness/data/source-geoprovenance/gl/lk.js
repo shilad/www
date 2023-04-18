@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Sri Lanka (gl)", 45, "http://gl.wikipedia.org/wiki/Sri_Lanka"], ["Provincia Central, Sri Lanka (gl)", 5, "http://gl.wikipedia.org/wiki/Provincia_Central%2C_Sri_Lanka"], ["Universidade de Jaffna (gl)", 1, "http://gl.wikipedia.org/wiki/Universidade_de_Jaffna"]], "data": [["lk", 1]]};

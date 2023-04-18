@@ -1,0 +1,1 @@
+var GP_ITEMIZED_DATA = {"domains": {}, "articles": [["Rwanda (simple)", 111, "http://simple.wikipedia.org/wiki/Rwanda"], ["Rwandan Genocide (simple)", 68, "http://simple.wikipedia.org/wiki/Rwandan_Genocide"], ["Kigali (simple)", 40, "http://simple.wikipedia.org/wiki/Kigali"]], "data": []};
