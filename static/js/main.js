@@ -18,5 +18,5 @@ function loadCitationsWithType(info, type) {
 }
 
 $(document).ready(function() {
-    $.get('/citations.csv?foob', loadCitations);
+    $.get('/citations.csv?fooz', loadCitations);
 });
